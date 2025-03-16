@@ -1,1 +1,1 @@
-SPI Connection=MISO,MOSI,CLK,CS
+SPI Connection=MISO,MOSI,CLK
