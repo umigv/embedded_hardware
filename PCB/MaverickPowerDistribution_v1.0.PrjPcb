@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RCLWLMLU
 
 [Document6]
-DocumentPath=..\..\..\..\Downloads\OLED_0.96-30P-P0.70-12864.PcbLib
+DocumentPath=OLED_0.96-30P-P0.70-12864.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,23 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VKLNJGTR
 
 [Document10]
-DocumentPath=ADC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JWBKHGQV
-
-[Document11]
 DocumentPath=Ammeter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFTHAXDY
 
-[Document12]
+[Document11]
 DocumentPath=MicroSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIEIVPYU
 
-[Document13]
+[Document12]
 DocumentPath=Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLUJKPMR
 
-[Document14]
+[Document13]
 DocumentPath=STM32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=Buck 3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
