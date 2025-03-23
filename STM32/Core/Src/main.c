@@ -111,7 +111,7 @@ int main(void)
   MX_SPI1_Init();
   MX_FATFS_Init();
   /* USER CODE BEGIN 2 */
-  myprintf("\r\n~ SD Card Read/Write Test by Keen, Layth ~\r\n\r\n");
+  myprintf("\r\n~ SD Card Read/Write Test by Keen, Liam ~\r\n\r\n");
 
   HAL_Delay(1000);
 
