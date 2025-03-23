@@ -120,7 +120,14 @@ int main(void)
   FIL fil; //file handle
   FRESULT fres; //Result after operations
 
-  fres = f_mount(&FatFs, "", 1); //1=mount now
+  fres = f_mount(&FatFs, "", 1); //1 = mount now
+  if (disk_initialize(0) != RES_OK) {
+      printf("SD Card initialization failed\n");
+  }
+  else{
+	  printf("SD Card initialized\n");
+  }
+
   if(fres != FR_OK) {
 	  myprintf("f_mount error (%i)\r\n", fres);
 	  while(1);
