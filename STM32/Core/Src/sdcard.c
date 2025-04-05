@@ -86,6 +86,7 @@ int SDCARD_Init() {
     step under certain circumstances SD-card will not work. For instance, when
     multiple SPI devices are sharing the same bus (i.e. MISO, MOSI, CS).
     */
+	HAL_Delay(100);
     SDCARD_Unselect();
 
     uint8_t high = 0xFF;
