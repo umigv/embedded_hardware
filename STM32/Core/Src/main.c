@@ -22,7 +22,10 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include <string.h>
+#include <stdarg.h>
+#include <stdio.h>
+#include "sdcard.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -63,7 +66,145 @@ static void MX_SPI1_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+void UART_Printf(const char* fmt, ...) {
+    char buff[256];
+    va_list args;
+    va_start(args, fmt);
+    vsnprintf(buff, sizeof(buff), fmt, args);
+    HAL_UART_Transmit(&huart2, (uint8_t*)buff, strlen(buff), HAL_MAX_DELAY);
+    va_end(args);
+}
 
+void init() {
+    int code;
+    UART_Printf("Ready!\r\n");
+    //MX_SDIO_SD_Init();
+    code = SDCARD_Init(); //problems with this code
+    UART_Printf("Init code check\r\n");
+
+    FATFS fs;
+    FRESULT res = f_mount(&fs, "", 1);
+    if (res != FR_OK) {
+        UART_Printf("Mount failed: %d - ", res);
+        switch(res) {
+            case FR_NOT_READY:  UART_Printf("Card not ready/init failed\r\n"); break;
+            case FR_DISK_ERR:   UART_Printf("Hard disk error\r\n"); break;
+            case FR_NO_FILESYSTEM: UART_Printf("No valid FAT volume\r\n"); break;
+            default: UART_Printf("Unknown error\r\n");
+        }
+        return;
+    }
+    FIL fil;
+    const char* test_str = "SD card test data";
+    res = f_open(&fil, "test.txt", FA_CREATE_ALWAYS | FA_WRITE);
+    if (res == FR_OK) {
+        UINT bytes_written;
+        f_write(&fil, test_str, strlen(test_str), &bytes_written);
+        f_close(&fil);
+        UART_Printf("Wrote %d bytes to file\r\n", bytes_written);
+    }
+
+    //code = SDCARD_Init();
+
+    if(code < 0) {
+        UART_Printf("SDCARD_Init() failed: code = %d\r\n", code);
+        return;
+    }
+
+    UART_Printf("SDCARD_Init() done!\r\n");
+
+    uint32_t blocksNum;
+    code = SDCARD_GetBlocksNumber(&blocksNum);
+    if(code < 0) {
+        UART_Printf("SDCARD_GetBlocksNumber() failed: code = %d\r\n", code);
+        return;
+    }
+
+    UART_Printf("SDCARD_GetBlocksNumber() done! blocksNum = %u (or %u Mb)\r\n",
+        blocksNum, blocksNum/2000 /* same as * 512 / 1000 / 1000 */);
+
+    uint32_t startBlockAddr = 0x00ABCD;
+    uint32_t blockAddr = startBlockAddr;
+    uint8_t block[512];
+
+    snprintf((char*)block, sizeof(block), "0x%08X", (int)blockAddr);
+
+    code = SDCARD_WriteSingleBlock(blockAddr, block);
+    if(code < 0) {
+        UART_Printf("SDCARD_WriteSingleBlock() failed: code = %d\r\n", code);
+        return;
+    }
+    UART_Printf("SDCARD_WriteSingleBlock(0x%08X, ...) done!\r\n", blockAddr);
+
+    memset(block, 0, sizeof(block));
+
+    code = SDCARD_ReadSingleBlock(blockAddr, block);
+    if(code < 0) {
+        UART_Printf("SDCARD_ReadSingleBlock() failed: code = %d\r\n", code);
+        return;
+    }
+
+    UART_Printf("SDCARD_ReadSingleBlock(0x%08X, ...) done! block = \"%c%c%c%c%c%c%c%c%c%c...\"\r\n",
+        blockAddr, block[0], block[1], block[2], block[3], block[4], block[5], block[6], block[7], block[8], block[9]);
+
+    blockAddr = startBlockAddr + 1;
+    code = SDCARD_WriteBegin(blockAddr);
+    if(code < 0) {
+        UART_Printf("SDCARD_WriteBegin() failed: code = %d\r\n", code);
+        return;
+    }
+    UART_Printf("SDCARD_WriteBegin(0x%08X, ...) done!\r\n", blockAddr);
+
+    for(int i = 0; i < 3; i++) {
+        snprintf((char*)block, sizeof(block), "0x%08X", (int)blockAddr);
+
+        code = SDCARD_WriteData(block);
+        if(code < 0) {
+            UART_Printf("SDCARD_WriteData() failed: code = %d\r\n", code);
+            return;
+        }
+
+        UART_Printf("SDCARD_WriteData() done! blockAddr = %08X\r\n", blockAddr);
+        blockAddr++;
+    }
+
+    code = SDCARD_WriteEnd();
+    if(code < 0) {
+        UART_Printf("SDCARD_WriteEnd() failed: code = %d\r\n", code);
+        return;
+    }
+    UART_Printf("SDCARD_WriteEnd() done!\r\n");
+
+    blockAddr = startBlockAddr + 1;
+    code = SDCARD_ReadBegin(blockAddr);
+    if(code < 0) {
+        UART_Printf("SDCARD_ReadBegin() failed: code = %d\r\n", code);
+        return;
+    }
+    UART_Printf("SDCARD_ReadBegin(0x%08X, ...) done!\r\n", blockAddr);
+
+    for(int i = 0; i < 3; i++) {
+        code = SDCARD_ReadData(block);
+        if(code < 0) {
+            UART_Printf("SDCARD_ReadData() failed: code = %d\r\n", code);
+            return;
+        }
+
+        UART_Printf("SDCARD_ReadData() done! block = \"%c%c%c%c%c%c%c%c%c%c...\"\r\n",
+            block[0], block[1], block[2], block[3], block[4], block[5], block[6], block[7], block[8], block[9]);
+    }
+
+    code = SDCARD_ReadEnd();
+    if(code < 0) {
+        UART_Printf("SDCARD_ReadEnd() failed: code = %d\r\n", code);
+        return;
+    }
+    UART_Printf("SDCARD_ReadEnd() done!\r\n");
+}
+
+void loop() {
+    HAL_Delay(500);
+}
 /* USER CODE END 0 */
 
 /**
@@ -100,6 +241,9 @@ int main(void)
   MX_SPI1_Init();
   MX_FATFS_Init();
   /* USER CODE BEGIN 2 */
+  init();
+  HAL_Delay(100);
+
 
   /* USER CODE END 2 */
 
@@ -108,7 +252,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+	  loop();
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */

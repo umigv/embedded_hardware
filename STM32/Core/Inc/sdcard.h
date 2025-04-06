@@ -5,8 +5,8 @@
 #include "stm32l4xx_hal.h"
 
 #define SDCARD_SPI_PORT      hspi1
-#define SDCARD_CS_Pin        GPIO_PIN_5 // Arduino shield: D4
-#define SDCARD_CS_GPIO_Port  GPIOB
+#define SDCARD_CS_Pin        GPIO_PIN_4 // Arduino shield: D4
+#define SDCARD_CS_GPIO_Port  GPIOA
 
 extern SPI_HandleTypeDef SDCARD_SPI_PORT;
 
