@@ -1,0 +1,247 @@
+Added Component: Designator=J1(FP-43045-0201-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250.25kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "43045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TF01A
+Added Component: Designator=J2(FP-43045-0201-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250.25kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "43045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J3(FP-43045-0201-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250.25kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "43045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN_178.6165.0001_LTF
+Add Component: Footprint Not Found CONN_178.6165.0001_LTF
+Added Component: Designator=OLED(OLED_0.96-30P-P0.70-12864)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "N096-2864KSWEG01-H30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "0.96? ?? 128x64????? ?? 30PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main Control Chip"; Value = "SSD1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Newvision(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "N096-2864KSWEG01-H30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0.96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2890596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "N096-2864KSWEG01-H30"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-32)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=UHallEffectA(SOIC127P602X173-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MLX91208LDC-CAV-001-SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=UHallEffectB(SOIC127P602X173-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MLX91208LDC-CAV-001-SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C_vccA-1
+Add Pin To Net: Unknown Pin: Pin C_vccA-2
+Add Pin To Net: Unknown Pin: Pin C_vccB-1
+Add Pin To Net: Unknown Pin: Pin C_vccB-2
+Add Pin To Net: Unknown Pin: Pin CoutA-1
+Add Pin To Net: Unknown Pin: Pin CoutA-2
+Add Pin To Net: Unknown Pin: Pin CoutB-1
+Add Pin To Net: Unknown Pin: Pin CoutB-2
+Added Pin To Net: NetName=26V Pin=J1-1
+Added Pin To Net: NetName=NC Pin=J1-1
+Added Pin To Net: NetName=\C\S\ Pin=J1-2
+Added Pin To Net: NetName=NC Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-CD1
+Add Pin To Net: Unknown Pin: Pin J1-MP1
+Add Pin To Net: Unknown Pin: Pin J1-MP2
+Add Pin To Net: Unknown Pin: Pin J1-MP3
+Add Pin To Net: Unknown Pin: Pin J1-MP4
+Added Pin To Net: NetName=V_left Pin=J2-1
+Added Pin To Net: NetName=NC Pin=J2-2
+Added Pin To Net: NetName=V_right Pin=J3-1
+Added Pin To Net: NetName=NC Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin L?-2
+Added Pin To Net: NetName=NetC6_1 Pin=OLED-2
+Added Pin To Net: NetName=NetC6_2 Pin=OLED-3
+Added Pin To Net: NetName=NetC5_2 Pin=OLED-4
+Added Pin To Net: NetName=NetC5_1 Pin=OLED-5
+Added Pin To Net: NetName=VBAT Pin=OLED-6
+Added Pin To Net: NetName=NC Pin=OLED-8
+Added Pin To Net: NetName=VDD Pin=OLED-9
+Added Pin To Net: NetName=NC Pin=OLED-10
+Added Pin To Net: NetName=NC Pin=OLED-11
+Added Pin To Net: NetName=NC Pin=OLED-12
+Added Pin To Net: NetName=NC Pin=OLED-13
+Added Pin To Net: NetName=NC Pin=OLED-14
+Added Pin To Net: NetName=NC Pin=OLED-15
+Added Pin To Net: NetName=NC Pin=OLED-16
+Added Pin To Net: NetName=NC Pin=OLED-17
+Added Pin To Net: NetName=I2C.SCL Pin=OLED-18
+Added Pin To Net: NetName=I2C.SDA Pin=OLED-19
+Added Pin To Net: NetName=I2C.SDA Pin=OLED-20
+Added Pin To Net: NetName=NC Pin=OLED-21
+Added Pin To Net: NetName=NC Pin=OLED-22
+Added Pin To Net: NetName=NC Pin=OLED-23
+Added Pin To Net: NetName=NC Pin=OLED-24
+Added Pin To Net: NetName=NC Pin=OLED-25
+Added Pin To Net: NetName=NetC2_1 Pin=OLED-27
+Added Pin To Net: NetName=NetC1_1 Pin=OLED-28
+Added Pin To Net: NetName=NC Pin=OLED-29
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=NetCoutA_2 Pin=UHallEffectA-1
+Added Pin To Net: NetName=26V Pin=UHallEffectA-2
+Added Pin To Net: NetName=NC Pin=UHallEffectA-3
+Added Pin To Net: NetName=26V Pin=UHallEffectA-4
+Added Pin To Net: NetName=3V3 Pin=UHallEffectA-5
+Added Pin To Net: NetName=NC Pin=UHallEffectA-6
+Added Pin To Net: NetName=NetUHallEffectA_7 Pin=UHallEffectA-7
+Added Pin To Net: NetName=NetUHallEffectA_7 Pin=UHallEffectA-8
+Added Pin To Net: NetName=NetCoutB_2 Pin=UHallEffectB-1
+Added Pin To Net: NetName=26V Pin=UHallEffectB-2
+Added Pin To Net: NetName=NC Pin=UHallEffectB-3
+Added Pin To Net: NetName=26V Pin=UHallEffectB-4
+Added Pin To Net: NetName=3V3 Pin=UHallEffectB-5
+Added Pin To Net: NetName=NC Pin=UHallEffectB-6
+Added Pin To Net: NetName=NetUHallEffectB_7 Pin=UHallEffectB-7
+Added Pin To Net: NetName=NetUHallEffectB_7 Pin=UHallEffectB-8
+Add Pin To Net: Unknown Pin: Pin UopAmp1-1
+Add Pin To Net: Unknown Pin: Pin UopAmp1-2
+Add Pin To Net: Unknown Pin: Pin UopAmp1-3
+Add Pin To Net: Unknown Pin: Pin UopAmp1-4
+Add Pin To Net: Unknown Pin: Pin UopAmp1-5
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C_vccA (C_vcc) Capacitor
+Add Class Member: Failed to add class member : Component C_vccB (C_vcc) Capacitor
+Add Class Member: Failed to add class member : Component CoutA (Cout) Capacitor
+Add Class Member: Failed to add class member : Component CoutB (Cout) Capacitor
+Added Member To Class: ClassName=Mass Storage Member=Component J1 TF-01A
+Added Member To Class: ClassName=Power Member=Component J1 43045-0201
+Added Member To Class: ClassName=Power Member=Component J2 43045-0201
+Added Member To Class: ClassName=Power Member=Component J3 43045-0201
+Add Class Member: Failed to add class member : Component J4 178.6165.0001
+Add Class Member: Failed to add class member : Component J5 178.6165.0001
+Add Class Member: Failed to add class member : Component L? Inductor
+Added Member To Class: ClassName=128x64 OLED Member=Component OLED N096-2864KSWEG01-H30
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Added Member To Class: ClassName=Microcontroller Member=Component U1 STM32L412KBT6
+Added Member To Class: ClassName=CIN1 Member=Component UHallEffectA (UHallEffect) MLX91208LDC-CAV-001-SP
+Added Member To Class: ClassName=CIN2 Member=Component UHallEffectB (UHallEffect) MLX91208LDC-CAV-001-SP
+Add Class Member: Failed to add class member : Component UopAmp1 Ideal Operational Amplifier

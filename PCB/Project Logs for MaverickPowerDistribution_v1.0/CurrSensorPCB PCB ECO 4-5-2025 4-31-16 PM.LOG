@@ -1,0 +1,134 @@
+Added Component: Designator=U1(LQFP-32)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C_vccA-1
+Add Pin To Net: Unknown Pin: Pin C_vccA-2
+Add Pin To Net: Unknown Pin: Pin C_vccB-1
+Add Pin To Net: Unknown Pin: Pin C_vccB-2
+Add Pin To Net: Unknown Pin: Pin CoutA-1
+Add Pin To Net: Unknown Pin: Pin CoutA-2
+Add Pin To Net: Unknown Pin: Pin CoutB-1
+Add Pin To Net: Unknown Pin: Pin CoutB-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-CD1
+Add Pin To Net: Unknown Pin: Pin J1-MP1
+Add Pin To Net: Unknown Pin: Pin J1-MP2
+Add Pin To Net: Unknown Pin: Pin J1-MP3
+Add Pin To Net: Unknown Pin: Pin J1-MP4
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin OLED-2
+Add Pin To Net: Unknown Pin: Pin OLED-3
+Add Pin To Net: Unknown Pin: Pin OLED-4
+Add Pin To Net: Unknown Pin: Pin OLED-5
+Add Pin To Net: Unknown Pin: Pin OLED-6
+Add Pin To Net: Unknown Pin: Pin OLED-8
+Add Pin To Net: Unknown Pin: Pin OLED-9
+Add Pin To Net: Unknown Pin: Pin OLED-10
+Add Pin To Net: Unknown Pin: Pin OLED-11
+Add Pin To Net: Unknown Pin: Pin OLED-12
+Add Pin To Net: Unknown Pin: Pin OLED-13
+Add Pin To Net: Unknown Pin: Pin OLED-14
+Add Pin To Net: Unknown Pin: Pin OLED-15
+Add Pin To Net: Unknown Pin: Pin OLED-16
+Add Pin To Net: Unknown Pin: Pin OLED-17
+Add Pin To Net: Unknown Pin: Pin OLED-18
+Add Pin To Net: Unknown Pin: Pin OLED-19
+Add Pin To Net: Unknown Pin: Pin OLED-20
+Add Pin To Net: Unknown Pin: Pin OLED-21
+Add Pin To Net: Unknown Pin: Pin OLED-22
+Add Pin To Net: Unknown Pin: Pin OLED-23
+Add Pin To Net: Unknown Pin: Pin OLED-24
+Add Pin To Net: Unknown Pin: Pin OLED-25
+Add Pin To Net: Unknown Pin: Pin OLED-27
+Add Pin To Net: Unknown Pin: Pin OLED-28
+Add Pin To Net: Unknown Pin: Pin OLED-29
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-1
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-2
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-3
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-4
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-5
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-6
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-7
+Add Pin To Net: Unknown Pin: Pin UHallEffectA-8
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-1
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-2
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-3
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-4
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-5
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-6
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-7
+Add Pin To Net: Unknown Pin: Pin UHallEffectB-8
+Add Pin To Net: Unknown Pin: Pin UopAmp1-1
+Add Pin To Net: Unknown Pin: Pin UopAmp1-2
+Add Pin To Net: Unknown Pin: Pin UopAmp1-3
+Add Pin To Net: Unknown Pin: Pin UopAmp1-4
+Add Pin To Net: Unknown Pin: Pin UopAmp1-5
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C_vccA (C_vcc) Capacitor
+Add Class Member: Failed to add class member : Component C_vccB (C_vcc) Capacitor
+Add Class Member: Failed to add class member : Component CoutA (Cout) Capacitor
+Add Class Member: Failed to add class member : Component CoutB (Cout) Capacitor
+Add Class Member: Failed to add class member : Component J1 TF-01A
+Add Class Member: Failed to add class member : Component J1 43045-0201
+Add Class Member: Failed to add class member : Component J2 43045-0201
+Add Class Member: Failed to add class member : Component J3 43045-0201
+Add Class Member: Failed to add class member : Component J4 178.6165.0001
+Add Class Member: Failed to add class member : Component J5 178.6165.0001
+Add Class Member: Failed to add class member : Component L? Inductor
+Add Class Member: Failed to add class member : Component OLED N096-2864KSWEG01-H30
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Added Member To Class: ClassName=Microcontroller Member=Component U1 STM32L412KBT6
+Add Class Member: Failed to add class member : Component UHallEffectA (UHallEffect) MLX91208LDC-CAV-001-SP
+Add Class Member: Failed to add class member : Component UHallEffectB (UHallEffect) MLX91208LDC-CAV-001-SP
+Add Class Member: Failed to add class member : Component UopAmp1 Ideal Operational Amplifier
