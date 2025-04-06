@@ -61,6 +61,8 @@ void Error_Handler(void);
 #define VCP_TX_GPIO_Port GPIOA
 #define SD_CS_Pin GPIO_PIN_4
 #define SD_CS_GPIO_Port GPIOA
+#define OSC_nEN_Pin GPIO_PIN_8
+#define OSC_nEN_GPIO_Port GPIOA
 #define TESTLED1_Pin GPIO_PIN_11
 #define TESTLED1_GPIO_Port GPIOA
 #define TESTLED2_Pin GPIO_PIN_12
