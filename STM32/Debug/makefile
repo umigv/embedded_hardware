@@ -64,8 +64,8 @@ all: main-build
 main-build: PowerDistributionBoard.elf secondary-outputs
 
 # Tool invocations
-PowerDistributionBoard.elf PowerDistributionBoard.map: $(OBJS) $(USER_OBJS) \\wsl.localhost\Ubuntu-24.04\home\yklim\umarv\PowerDistributionBoard\STM32\STM32L412KBUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "PowerDistributionBoard.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"\\wsl.localhost\Ubuntu-24.04\home\yklim\umarv\PowerDistributionBoard\STM32\STM32L412KBUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PowerDistributionBoard.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+PowerDistributionBoard.elf PowerDistributionBoard.map: $(OBJS) $(USER_OBJS) D:\STM32\STM32CubeIDE_1.16.0\Work\PowerDistributionBoard\STM32\STM32L412KBUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "PowerDistributionBoard.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"D:\STM32\STM32CubeIDE_1.16.0\Work\PowerDistributionBoard\STM32\STM32L412KBUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PowerDistributionBoard.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

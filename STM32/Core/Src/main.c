@@ -122,10 +122,10 @@ int main(void)
 
   fres = f_mount(&FatFs, "", 1); //1 = mount now
   if (disk_initialize(0) != RES_OK) {
-      printf("SD Card initialization failed\n");
+      myprintf("SD Card initialization failed\r\n");
   }
   else{
-	  printf("SD Card initialized\n");
+	  myprintf("SD Card initialized\r\n");
   }
 
   if(fres != FR_OK) {
@@ -406,7 +406,17 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
+  HAL_GPIO_WritePin(GPIOA, SD_CS_Pin|OSC_nEN_Pin|TESTLED1_Pin|TESTLED2_Pin, GPIO_PIN_RESET);
+
+  /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(LD3_GPIO_Port, LD3_Pin, GPIO_PIN_RESET);
+
+  /*Configure GPIO pins : SD_CS_Pin OSC_nEN_Pin TESTLED1_Pin TESTLED2_Pin */
+  GPIO_InitStruct.Pin = SD_CS_Pin|OSC_nEN_Pin|TESTLED1_Pin|TESTLED2_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
   /*Configure GPIO pin : LD3_Pin */
   GPIO_InitStruct.Pin = LD3_Pin;
