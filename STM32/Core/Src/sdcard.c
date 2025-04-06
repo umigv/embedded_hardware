@@ -14,7 +14,7 @@ void SDCARD_Unselect() {
 R1: 0abcdefg
      ||||||`- 1th bit (g): card is in idle state
      |||||`-- 2th bit (f): erase sequence cleared
-     ||||`--- 3th bit (e): illigal command detected
+     ||||`--- 3th bit (e): illegal command detected
      |||`---- 4th bit (d): crc check error
      ||`----- 5th bit (c): error in the sequence of erase commands
      |`------ 6th bit (b): misaligned addres used in command
