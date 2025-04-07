@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Fuse.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGTTCBFH
+
+[Document2]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVPJSZCV
 
-[Document2]
+[Document3]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNTVSENC
 
-[Document3]
+[Document4]
 DocumentPath=SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document4]
+[Document5]
 DocumentPath=..\..\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAIBNKAT
 
-[Document5]
+[Document6]
 DocumentPath=..\..\X1G0044810014001_X1G004481001400.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYOEQOBU
 
-[Document6]
+[Document7]
 DocumentPath=STM32L412KBT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQKYZUDS
 
-[Document7]
+[Document8]
 DocumentPath=N096-2864KSWEG01-H301_N096-2864KSWEG01-H30.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHLASYYJ
 
-[Document8]
+[Document9]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCLWLMLU
 
-[Document9]
+[Document10]
 DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document10]
+[Document11]
 DocumentPath=..\..\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELVYFBZR
 
-[Document11]
+[Document12]
 DocumentPath=..\..\OSC-SMD_4P-L7.0-W5.0-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVSEXCES
 
-[Document12]
+[Document13]
 DocumentPath=OLED_0.96-30P-P0.70-12864.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXIVWJUE
 
-[Document13]
+[Document14]
 DocumentPath=STM32L412KBT6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JISKYPCM
 
-[Document14]
+[Document15]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBNCSQVJ
 
-[Document15]
+[Document16]
 DocumentPath=STM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKLNJGTR
 
-[Document16]
+[Document17]
 DocumentPath=Ammeter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFTHAXDY
 
-[Document17]
+[Document18]
 DocumentPath=MicroSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIEIVPYU
 
-[Document18]
+[Document19]
 DocumentPath=Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLUJKPMR
 
-[Document19]
+[Document20]
 DocumentPath=Buck 3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRCPHKXN
 
-[Document20]
+[Document21]
 DocumentPath=..\..\..\..\Downloads\ACS772-Hall_Effect_Sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJOXPSEB
 
-[Document21]
+[Document22]
 DocumentPath=..\..\..\..\Downloads\EEUFS1J270B\CAPPRD500W50D500H1100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=2Pin.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGJGLRUP
 
-[Document23]
+[Document24]
 DocumentPath=2Pins.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUQOSNWI
 
-[Document24]
+[Document25]
 DocumentPath=STM32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=SWD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1235,7 +1252,7 @@ Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
+Type12=0
 Type13=2
 Type14=1
 Type15=1
