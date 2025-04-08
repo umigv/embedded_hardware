@@ -73,7 +73,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -101,6 +101,74 @@ GenerateClassCluster=0
 DocumentUniqueId=WNTVSENC
 
 [Document4]
+DocumentPath=SX3M32.768KM20F30TNN1_SX3M32.768KM20F30TNN.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EBOCXZUI
+
+[Document5]
+DocumentPath=jlcpcb_2024_10_resistors_basic.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CZSBANZX
+
+[Document6]
+DocumentPath=jlcpcb_2024_10_inductors_basic.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CBUXLHFJ
+
+[Document7]
+DocumentPath=jlcpcb_2024_10_capacitors_basic.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PTSZOWZO
+
+[Document8]
 DocumentPath=0402WGF3903TCE1_0402WGF3903TCE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJQLFCOL
 
-[Document5]
+[Document9]
 DocumentPath=SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +202,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document6]
+[Document10]
+DocumentPath=M7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVVNATCQ
+
+[Document11]
 DocumentPath=..\..\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAIBNKAT
 
-[Document7]
+[Document12]
 DocumentPath=..\..\X1G0044810014001_X1G004481001400.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYOEQOBU
 
-[Document8]
+[Document13]
 DocumentPath=STM32L412KBT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQKYZUDS
 
-[Document9]
+[Document14]
 DocumentPath=N096-2864KSWEG01-H301_N096-2864KSWEG01-H30.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +287,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHLASYYJ
 
-[Document10]
+[Document15]
+DocumentPath=SS8050_C21501_SS8050_C2150.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJFZRFHH
+
+[Document16]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +321,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCLWLMLU
 
-[Document11]
+[Document17]
+DocumentPath=OSC-SMD_4P-L3.2-W2.5-BL.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MKNYHXKO
+
+[Document18]
 DocumentPath=R0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDSMVGSQ
 
-[Document12]
+[Document19]
 DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document13]
+[Document20]
 DocumentPath=..\..\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELVYFBZR
 
-[Document14]
+[Document21]
 DocumentPath=..\..\OSC-SMD_4P-L7.0-W5.0-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVSEXCES
 
-[Document15]
+[Document22]
 DocumentPath=OLED_0.96-30P-P0.70-12864.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXIVWJUE
 
-[Document16]
+[Document23]
 DocumentPath=STM32L412KBT6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +440,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JISKYPCM
 
-[Document17]
+[Document24]
+DocumentPath=M7.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOAUOWVV
+
+[Document25]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,14 +474,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBNCSQVJ
 
-[Document18]
+[Document26]
 DocumentPath=STM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -355,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKLNJGTR
 
-[Document19]
+[Document27]
 DocumentPath=Ammeter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFTHAXDY
 
-[Document20]
+[Document28]
 DocumentPath=MicroSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIEIVPYU
 
-[Document21]
+[Document29]
 DocumentPath=Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,8 +542,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLUJKPMR
 
-[Document22]
-DocumentPath=Buck 3V3.SchDoc
+[Document30]
+DocumentPath=Regulator3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
@@ -423,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRCPHKXN
 
-[Document23]
+[Document31]
 DocumentPath=..\..\..\..\Downloads\ACS772-Hall_Effect_Sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +576,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJOXPSEB
 
-[Document24]
+[Document32]
+DocumentPath=SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VBLLIEIS
+
+[Document33]
 DocumentPath=..\..\..\..\Downloads\EEUFS1J270B\CAPPRD500W50D500H1100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document34]
 DocumentPath=2Pin.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGJGLRUP
 
-[Document26]
+[Document35]
 DocumentPath=2Pins.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUQOSNWI
 
-[Document27]
+[Document36]
 DocumentPath=STM32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document37]
 DocumentPath=SWD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -860,6 +1013,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
