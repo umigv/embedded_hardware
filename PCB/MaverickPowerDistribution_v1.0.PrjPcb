@@ -33,7 +33,11 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 ConstraintManagerFlow=0
+<<<<<<< HEAD
+IsVirtualBomDocumentRemoved=1
+=======
 IsVirtualBomDocumentRemoved=0
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -322,6 +326,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RCLWLMLU
 
 [Document17]
+DocumentPath=WAI-Perfect.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHDNLGIW
+
+[Document18]
 DocumentPath=OSC-SMD_4P-L3.2-W2.5-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKNYHXKO
 
-[Document18]
+[Document19]
 DocumentPath=R0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDSMVGSQ
 
-[Document19]
+[Document20]
 DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document20]
+[Document21]
 DocumentPath=..\..\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELVYFBZR
 
-[Document21]
+[Document22]
 DocumentPath=..\..\OSC-SMD_4P-L7.0-W5.0-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVSEXCES
 
-[Document22]
+[Document23]
 DocumentPath=OLED_0.96-30P-P0.70-12864.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXIVWJUE
 
-[Document23]
+[Document24]
 DocumentPath=STM32L412KBT6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JISKYPCM
 
-[Document24]
+[Document25]
 DocumentPath=M7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOAUOWVV
 
-[Document25]
+[Document26]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBNCSQVJ
 
-[Document26]
+[Document27]
 DocumentPath=STM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKLNJGTR
 
-[Document27]
+[Document28]
 DocumentPath=Ammeter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFTHAXDY
 
-[Document28]
+[Document29]
 DocumentPath=MicroSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +546,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIEIVPYU
 
-[Document29]
+[Document30]
 DocumentPath=Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLUJKPMR
 
-[Document30]
+[Document31]
 DocumentPath=Regulator3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +580,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRCPHKXN
 
-[Document31]
+<<<<<<< HEAD
+[Document18]
+=======
+[Document32]
 DocumentPath=..\..\..\..\Downloads\ACS772-Hall_Effect_Sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJOXPSEB
 
-[Document32]
+[Document33]
 DocumentPath=SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +617,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBLLIEIS
 
-[Document33]
+[Document34]
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 DocumentPath=..\..\..\..\Downloads\EEUFS1J270B\CAPPRD500W50D500H1100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +635,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+<<<<<<< HEAD
+[Document19]
+=======
+[Document35]
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 DocumentPath=2Pin.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +656,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGJGLRUP
 
-[Document35]
+<<<<<<< HEAD
+[Document20]
+=======
+[Document36]
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 DocumentPath=2Pins.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +677,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUQOSNWI
 
-[Document36]
+<<<<<<< HEAD
+[Document21]
+=======
+[Document37]
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 DocumentPath=STM32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +698,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+<<<<<<< HEAD
+[Document22]
+DocumentPath=ACS772-Hall_Effect_Sensor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+=======
+[Document38]
 DocumentPath=SWD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -669,6 +716,7 @@ AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -676,7 +724,28 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=ACS772-Hall_Effect_Sensor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BGIKDWLS
+=======
 DocumentUniqueId=AFYYVBUX
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 
 [Configuration1]
 Name=Sources
@@ -1353,7 +1422,10 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+<<<<<<< HEAD
+=======
 Type151=1
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 
 [Difference Levels]
 Type1=1
@@ -1437,7 +1509,10 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+<<<<<<< HEAD
+=======
 Type82=1
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 
 [Electrical Rules Check]
 Type1=1
@@ -1594,6 +1669,8 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+<<<<<<< HEAD
+=======
 Type155=0
 Type156=0
 Type157=0
@@ -1601,6 +1678,7 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+>>>>>>> bae72245e73e5df81ab4248d186cb346365bef95
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
