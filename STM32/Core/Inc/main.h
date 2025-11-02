@@ -57,24 +57,28 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define LSE_EN_Pin GPIO_PIN_15
+#define LSE_EN_GPIO_Port GPIOC
 #define VCP_TX_Pin GPIO_PIN_2
 #define VCP_TX_GPIO_Port GPIOA
-#define SD_CS_Pin GPIO_PIN_4
+#define LED2_Pin GPIO_PIN_0
+#define LED2_GPIO_Port GPIOB
+#define LED1_Pin GPIO_PIN_1
+#define LED1_GPIO_Port GPIOB
+#define SD_CD_Pin GPIO_PIN_9
+#define SD_CD_GPIO_Port GPIOA
+#define SD_CS_Pin GPIO_PIN_10
 #define SD_CS_GPIO_Port GPIOA
-#define OSC_nEN_Pin GPIO_PIN_8
-#define OSC_nEN_GPIO_Port GPIOA
-#define TESTLED1_Pin GPIO_PIN_11
-#define TESTLED1_GPIO_Port GPIOA
-#define TESTLED2_Pin GPIO_PIN_12
-#define TESTLED2_GPIO_Port GPIOA
 #define SWDIO_Pin GPIO_PIN_13
 #define SWDIO_GPIO_Port GPIOA
 #define SWCLK_Pin GPIO_PIN_14
 #define SWCLK_GPIO_Port GPIOA
 #define VCP_RX_Pin GPIO_PIN_15
 #define VCP_RX_GPIO_Port GPIOA
-#define LD3_Pin GPIO_PIN_3
-#define LD3_GPIO_Port GPIOB
+#define OLED_TOGGLE_EXTI_Pin GPIO_PIN_4
+#define OLED_TOGGLE_EXTI_GPIO_Port GPIOB
+#define OLED_NRST_Pin GPIO_PIN_5
+#define OLED_NRST_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
