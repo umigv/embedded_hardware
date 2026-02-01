@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=R15-1
+Removed Pin From Net: NetName=LED1 Pin=R15-2
+Removed Pin From Net: NetName=NetLED2_1 Pin=R16-1
+Removed Pin From Net: NetName=LED2 Pin=R16-2
+Added Component: Designator=D1A(FP-AP2012EC-MFG)
+Added Component: Designator=D1B(FP-AP2012EC-MFG)
+Added Component: Designator=LED1(FP-AP2012EC-MFG)
+Added Component: Designator=LED2(FP-AP2012EC-MFG)
+Added Component: Designator=U3(FP-DDC0006A-IPC_A)
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1B-1
+Add Pin To Net: Unknown Pin: Pin D1B-2
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Added Pin To Net: NetName=LED2 Pin=R15-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R15-2
+Added Pin To Net: NetName=LED1 Pin=R16-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R16-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Class Member: Failed to add class member : Component D1A (D1) AP2012EC
+Add Class Member: Failed to add class member : Component D1B (D1) AP2012EC
+Add Class Member: Failed to add class member : Component LED1 AP2012EC
+Add Class Member: Failed to add class member : Component LED2 AP2012EC
+Add Class Member: Failed to add class member : Component U3 TPS54202DDCR

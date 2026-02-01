@@ -1,0 +1,91 @@
+Added Component: Designator=24(CAPC0603X33N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CGA1A2C0G1E680J030BA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CGA1A2C0G1E680J030BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CGA1A2C0G1E680J030BA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP-0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 1.2V DC Bias"; Value = "35.744uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 1.5V DC Bias"; Value = "32.775uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 1.8V DC Bias"; Value = "29.885uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 1.35V DC Bias"; Value = "34.267uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 1V DC Bias"; Value = "37.588uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 2.5V DC Bias"; Value = "24.262uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 3.3V DC Bias"; Value = "18.956uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 3.7V DC Bias"; Value = "16.988uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 4.2V DC Bias"; Value = "14.989uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ 5V DC Bias"; Value = "12.411uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors - MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21A476MQYNNNE_C16780.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C16780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-Samsung-Electro-Mechanics-CL21A476MQYNNNE_C16780.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Samsung Component Library"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://weblib.samsungsem.com/mlcc/mlcc-ec.do?partNumber=CL21A476MQYNNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 1GHz"; Value = "0.706O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 1kHz"; Value = "5.39O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 1MHz"; Value = "0.00305O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 2GHz"; Value = "1.8O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 5GHz"; Value = "2.67O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 5kHz"; Value = "1.11O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 5MHz"; Value = "0.0134O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 10kHz"; Value = "0.559O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 10MHz"; Value = "0.0218O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 50kHz"; Value = "0.115O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 50MHz"; Value = "0.0701O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 100Hz"; Value = "51.8O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 100kHz"; Value = "0.0576O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 100MHz"; Value = "0.113O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 500Hz"; Value = "10.7O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 500kHz"; Value = "0.00947O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (0V Bias) @ 500MHz"; Value = "0.391O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C16780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21A476MQYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C16780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=D1A(FP-AP2012EC-MFG)
+Added Component: Designator=D1B(FP-AP2012EC-MFG)
+Added Component: Designator=LED1(FP-AP2012EC-MFG)
+Added Component: Designator=LED2(FP-AP2012EC-MFG)
+Added Component: Designator=U3(FP-DDC0006A-IPC_A)
+Added Pin To Net: NetName=NetC24_2 Pin=24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC24_2 Pin=C25-2
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1B-1
+Add Pin To Net: Unknown Pin: Pin D1B-2
+Added Pin To Net: NetName=3V3 Pin=LDO_1-2
+Added Pin To Net: NetName=3V3 Pin=LDO_1-4
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-6
+Change Net Name : Old Net Name=NetC24_2 New Net Name=Net24_2
+Added Pin To Net: NetName=Net24_1 Pin=24-1
+Added Pin To Net: NetName=Net24_1 Pin=R21-1
+Added Pin To Net: NetName=Net24_1 Pin=R22-2
+Added Net: Name=Net24_1
+Added Member To Class: ClassName=Buck + LDO Member=Component 24 CGA1A2C0G1E680J030BA
+Added Member To Class: ClassName=Buck + LDO Member=Component C25 CL21A476MQYNNNE
+Add Class Member: Failed to add class member : Component D1A (D1) AP2012EC
+Add Class Member: Failed to add class member : Component D1B (D1) AP2012EC
+Add Class Member: Failed to add class member : Component LED1 AP2012EC
+Add Class Member: Failed to add class member : Component LED2 AP2012EC
+Add Class Member: Failed to add class member : Component U3 TPS54202DDCR

@@ -1,0 +1,29 @@
+Added Component: Designator=D1 - LED_blownA(FP-AP2012EC-MFG)
+Added Component: Designator=D1 - LED_blownB(FP-AP2012EC-MFG)
+Added Component: Designator=LED1(FP-AP2012EC-MFG)
+Added Component: Designator=LED2(FP-AP2012EC-MFG)
+Added Component: Designator=U3(FP-DDC0006A-IPC_A)
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownA-1
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownA-2
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownB-1
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownB-2
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Class Member: Failed to add class member : Component C24 Capacitor
+Add Class Member: Failed to add class member : Component C25 Capacitor
+Add Class Member: Failed to add class member : Component D1 - LED_blownA (D1 - LED_blown) AP2012EC
+Add Class Member: Failed to add class member : Component D1 - LED_blownB (D1 - LED_blown) AP2012EC
+Add Class Member: Failed to add class member : Component LED1 AP2012EC
+Add Class Member: Failed to add class member : Component LED2 AP2012EC
+Add Class Member: Failed to add class member : Component U3 TPS54202DDCR

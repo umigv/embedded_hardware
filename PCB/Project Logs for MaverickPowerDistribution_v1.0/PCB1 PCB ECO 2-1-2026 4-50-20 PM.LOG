@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=24 NewDesignator=C24
+Added Component: Designator=D1A(FP-AP2012EC-MFG)
+Added Component: Designator=D1B(FP-AP2012EC-MFG)
+Added Component: Designator=D5(FP-AP2012EC-MFG)
+Added Component: Designator=D6(FP-AP2012EC-MFG)
+Added Component: Designator=U3(FP-DDC0006A-IPC_A)
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1B-1
+Add Pin To Net: Unknown Pin: Pin D1B-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-6
+Change Net Name : Old Net Name=Net24_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=Net24_2 New Net Name=NetC24_2
+Added Pin To Net: NetName=NetD6_1 Pin=R16-1
+Added Net: Name=NetD6_1
+Add Class Member: Failed to add class member : Component D1A (D1) AP2012EC
+Add Class Member: Failed to add class member : Component D1B (D1) AP2012EC
+Add Class Member: Failed to add class member : Component D5 AP2012EC
+Add Class Member: Failed to add class member : Component D6 AP2012EC
+Add Class Member: Failed to add class member : Component U3 TPS54202DDCR

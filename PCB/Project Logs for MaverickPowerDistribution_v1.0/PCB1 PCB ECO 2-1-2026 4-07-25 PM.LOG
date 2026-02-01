@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=\C\S\ Pin=C15-1
+Removed Pin From Net: NetName=\C\S\ Pin=H_OLED1-4
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Pin From Net: NetName=\C\S\ Pin=U1-20
+Change Footprint: Cannot match pads with new footprint in component :LED1 Footprint:FP-AP2012EC-MFG
+Change Footprint: Cannot match pads with new footprint in component :LED2 Footprint:FP-AP2012EC-MFG
+Change Component Comment : Designator=LED1 Old Comment=Red LED New Comment=AP2012EC
+Change Component Comment : Designator=LED2 Old Comment=Red LED New Comment=AP2012EC
+Change Managed Component Library Link : Designator=LED1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9BE51C8-8C33-48B5-88E1-850EF85191A1 Old RevisionGUID= New RevisionGUID=E6EE0AD0-CAD8-43E4-9AC7-6E993733B893
+Change Managed Component Library Link : Designator=LED2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A9BE51C8-8C33-48B5-88E1-850EF85191A1 Old RevisionGUID= New RevisionGUID=E6EE0AD0-CAD8-43E4-9AC7-6E993733B893
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LEDC1608X70N"; UniqueID = "\EZSMIZMW\ZORGOHEM" ("\EZSMIZMW\ZORGOHEM")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dominant Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "15mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "627nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("LED2"); Footprint = "LEDC1608X70N"; UniqueID = "\EZSMIZMW\DAEZGXSR" ("\EZSMIZMW\DAEZGXSR")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dominant Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "15mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "627nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=D1 - LED_blownA(FP-AP2012EC-MFG)
+Added Component: Designator=D1 - LED_blownB(FP-AP2012EC-MFG)
+Added Component: Designator=MICRO_SD1(TF-01A)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TF-01A/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HRO Electronics Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TF-01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TF-01A/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(FP-DDC0006A-IPC_A)
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownA-1
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownA-2
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownB-1
+Add Pin To Net: Unknown Pin: Pin D1 - LED_blownB-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=\C\S\ Pin=MICRO_SD1-3
+Added Pin To Net: NetName=3V3 Pin=MICRO_SD1-4
+Added Pin To Net: NetName=SPI1_SCK Pin=MICRO_SD1-5
+Added Pin To Net: NetName=GND Pin=MICRO_SD1-6
+Added Pin To Net: NetName=SPI1_MISO Pin=MICRO_SD1-7
+Added Pin To Net: NetName=CardDetect Pin=MICRO_SD1-CD1
+Added Pin To Net: NetName=GND Pin=MICRO_SD1-MP1
+Added Pin To Net: NetName=GND Pin=MICRO_SD1-MP2
+Added Pin To Net: NetName=GND Pin=MICRO_SD1-MP3
+Added Pin To Net: NetName=GND Pin=MICRO_SD1-MP4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-6
+Change Net Name : Old Net Name=\C\S\ New Net Name=SPI1_MOSI
+Added Pin To Net: NetName=\C\S\ Pin=H_OLED1-4
+Added Pin To Net: NetName=\C\S\ Pin=MICRO_SD1-2
+Added Pin To Net: NetName=\C\S\ Pin=U1-20
+Added Net: Name=\C\S\
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R15-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R16-1
+Added Net: Name=NetLED2_1
+Add Class Member: Failed to add class member : Component C24 Capacitor
+Add Class Member: Failed to add class member : Component C25 Capacitor
+Add Class Member: Failed to add class member : Component D1 - LED_blownA (D1 - LED_blown) AP2012EC
+Add Class Member: Failed to add class member : Component D1 - LED_blownB (D1 - LED_blown) AP2012EC
+Added Member To Class: ClassName=Mass Storage Member=Component MICRO_SD1 TF-01A
+Add Class Member: Failed to add class member : Component U3 TPS54202DDCR

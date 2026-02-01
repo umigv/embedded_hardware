@@ -1,0 +1,53 @@
+Added Component: Designator=D_LED1(FP-AP2012EC-MFG)
+Added Component: Designator=D_LED2(FP-AP2012EC-MFG)
+Added Component: Designator=D_LEDA(FP-AP2012EC-MFG)
+Added Component: Designator=D_LEDB(FP-AP2012EC-MFG)
+Added Component: Designator=R21(FP-CRCW0603-e3-MFG)
+Added Component: Designator=U3(FP-DDC0006A-IPC_A)
+Add Pin To Net: Unknown Pin: Pin D_LED1-1
+Add Pin To Net: Unknown Pin: Pin D_LED1-2
+Add Pin To Net: Unknown Pin: Pin D_LED2-1
+Add Pin To Net: Unknown Pin: Pin D_LED2-2
+Add Pin To Net: Unknown Pin: Pin D_LEDA-1
+Add Pin To Net: Unknown Pin: Pin D_LEDA-2
+Add Pin To Net: Unknown Pin: Pin D_LEDB-1
+Add Pin To Net: Unknown Pin: Pin D_LEDB-2
+Added Pin To Net: NetName=SPI1_SCK Pin=H_OLED1-1
+Added Pin To Net: NetName=SPI1_MISO Pin=H_OLED1-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=H_OLED1-3
+Added Pin To Net: NetName=\C\S\ Pin=H_OLED1-4
+Added Pin To Net: NetName=I2C1_SCL Pin=H_SD1-1
+Added Pin To Net: NetName=I2C1_SDA Pin=H_SD1-2
+Added Pin To Net: NetName=OLED_TOGGLE Pin=H_SD1-4
+Added Pin To Net: NetName=SPI1_MOSI Pin=MICRO_SD1-3
+Added Pin To Net: NetName=SPI1_SCK Pin=MICRO_SD1-5
+Added Pin To Net: NetName=SPI1_MISO Pin=MICRO_SD1-7
+Added Pin To Net: NetName=I2C1_SCL Pin=OLED1-18
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Added Pin To Net: NetName=MCU_VCP_TX Pin=U1-8
+Added Pin To Net: NetName=CardDetect Pin=U1-19
+Added Pin To Net: NetName=\C\S\ Pin=U1-20
+Added Pin To Net: NetName=MCU_VCP_RX Pin=U1-25
+Added Pin To Net: NetName=OLED_TOGGLE Pin=U1-27
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-6
+Added Pin To Net: NetName=LED1 Pin=R15-1
+Added Pin To Net: NetName=LED1 Pin=U1-15
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R16-1
+Added Pin To Net: NetName=LED2 Pin=U1-14
+Added Net: Name=LED2
+Added Pin To Net: NetName=OLED_NRST Pin=H_SD1-3
+Added Pin To Net: NetName=OLED_NRST Pin=OLED1-14
+Added Pin To Net: NetName=OLED_NRST Pin=U1-28
+Added Net: Name=OLED_NRST
+Add Class Member: Failed to add class member : Component D_LED1 AP2012EC
+Add Class Member: Failed to add class member : Component D_LED2 AP2012EC
+Add Class Member: Failed to add class member : Component D_LEDA (D_LED) AP2012EC
+Add Class Member: Failed to add class member : Component D_LEDB (D_LED) AP2012EC
+Add Class Member: Failed to add class member : Component R21 CRCW0603100KFKEI
+Add Class Member: Failed to add class member : Component U3 TPS54202DDCR
