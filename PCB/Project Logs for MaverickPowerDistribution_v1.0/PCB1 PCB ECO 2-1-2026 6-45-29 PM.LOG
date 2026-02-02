@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=LDO_1-2
+Removed Pin From Net: NetName=3V3 Pin=LDO_1-4
+Added Pin To Net: NetName=OPAMP1_VINP Pin=LDO_1-2
+Added Pin To Net: NetName=OPAMP1_VINP Pin=LDO_1-4
+Change Class Name : Old Net Name=Buck + LDO New Net Name=Buck+LDO
