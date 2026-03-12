@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=H_OLED1 NewDesignator=H_SD1
+Change Component Designator: OldDesignator=H_SD1 NewDesignator=H_OLED1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

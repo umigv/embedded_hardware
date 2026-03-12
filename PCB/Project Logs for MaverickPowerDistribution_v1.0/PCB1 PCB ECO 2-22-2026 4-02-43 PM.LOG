@@ -1,0 +1,44 @@
+Added Component: Designator=R17A(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1001T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R17B(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1001T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR17A_1 Pin=R17A-1
+Added Pin To Net: NetName=3V3 Pin=R17A-2
+Added Pin To Net: NetName=NetR17B_1 Pin=R17B-1
+Added Pin To Net: NetName=3V3 Pin=R17B-2
+Added Member To Class: ClassName=I1 Member=Component R17A (R17) 0603WAF1001T5E
+Added Member To Class: ClassName=I2 Member=Component R17B (R17) 0603WAF1001T5E

@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=3V3 Pin=C9A-1
+Removed Pin From Net: NetName=GND Pin=C9A-2
+Removed Pin From Net: NetName=3V3 Pin=C9B-1
+Removed Pin From Net: NetName=GND Pin=C9B-2
+Removed Pin From Net: NetName=Vi_motor1 Pin=C10A-1
+Removed Pin From Net: NetName=GND Pin=C10A-2
+Removed Pin From Net: NetName=Vi_motor2 Pin=C10B-1
+Removed Pin From Net: NetName=GND Pin=C10B-2
+Removed Pin From Net: NetName=Vi_motor1 Pin=UHall1A-1
+Removed Pin From Net: NetName=GND Pin=UHall1A-3
+Removed Pin From Net: NetName=3V3 Pin=UHall1A-5
+Removed Pin From Net: NetName=GND Pin=UHall1A-6
+Removed Pin From Net: NetName=Vmotor1 Pin=UHall1A-7
+Removed Pin From Net: NetName=Vmotor1 Pin=UHall1A-8
+Removed Pin From Net: NetName=Vi_motor2 Pin=UHall1B-1
+Removed Pin From Net: NetName=GND Pin=UHall1B-3
+Removed Pin From Net: NetName=3V3 Pin=UHall1B-5
+Removed Pin From Net: NetName=GND Pin=UHall1B-6
+Removed Pin From Net: NetName=Vmotor2 Pin=UHall1B-7
+Removed Pin From Net: NetName=Vmotor2 Pin=UHall1B-8
+Removed Member From Class: ClassName=I1 Member=C9A
+Removed Member From Class: ClassName=I2 Member=C9B
+Removed Member From Class: ClassName=I1 Member=C10A
+Removed Member From Class: ClassName=I2 Member=C10B
+Removed Member From Class: ClassName=I1 Member=UHall1A
+Removed Member From Class: ClassName=I2 Member=UHall1B
+Added Component: Designator=R 1 kOhmA(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Basic Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R 1 kOhmB(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Basic Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Add component: Footprint Not Found XDCR_ACS711KEXLT-15AB-T
+Add component: Footprint Not Found XDCR_ACS711KEXLT-15AB-T
+Add Pin To Net: Unknown Pin: Pin C 0.1microFA-1
+Add Pin To Net: Unknown Pin: Pin C 0.1microFA-2
+Add Pin To Net: Unknown Pin: Pin C 0.1microFB-1
+Add Pin To Net: Unknown Pin: Pin C 0.1microFB-2
+Add Pin To Net: Unknown Pin: Pin C LoadA-1
+Add Pin To Net: Unknown Pin: Pin C LoadA-2
+Add Pin To Net: Unknown Pin: Pin C LoadB-1
+Add Pin To Net: Unknown Pin: Pin C LoadB-2
+Added Pin To Net: NetName=3V3 Pin=R 1 kOhmA-2
+Added Pin To Net: NetName=3V3 Pin=R 1 kOhmB-2
+Add Pin To Net: Unknown Pin: Pin U2A-3
+Add Pin To Net: Unknown Pin: Pin U2A-5
+Add Pin To Net: Unknown Pin: Pin U2A-11
+Add Pin To Net: Unknown Pin: Pin U2A-12
+Add Pin To Net: Unknown Pin: Pin U2B-3
+Add Pin To Net: Unknown Pin: Pin U2B-5
+Add Pin To Net: Unknown Pin: Pin U2B-11
+Add Pin To Net: Unknown Pin: Pin U2B-12
+Added Pin To Net: NetName=NetR 1 kOhmA_1 Pin=R 1 kOhmA-1
+Added Net: Name=NetR 1 kOhmA_1
+Added Pin To Net: NetName=NetR 1 kOhmB_1 Pin=R 1 kOhmB-1
+Added Net: Name=NetR 1 kOhmB_1
+Added Net: Name=NetU2A_1
+Added Net: Name=NetU2B_1
+Add Class Member: Failed to add class member : Component C 0.1microFA (C 0.1microF) JMK105BJ105KV-F
+Add Class Member: Failed to add class member : Component C 0.1microFB (C 0.1microF) JMK105BJ105KV-F
+Add Class Member: Failed to add class member : Component C LoadA (C Load) JMK105BJ105KV-F
+Add Class Member: Failed to add class member : Component C LoadB (C Load) JMK105BJ105KV-F
+Added Member To Class: ClassName=I1 Member=Component R 1 kOhmA (R 1 kOhm) ERJ-2RKF1001X
+Added Member To Class: ClassName=I2 Member=Component R 1 kOhmB (R 1 kOhm) ERJ-2RKF1001X
+Add Class Member: Failed to add class member : Component U2A (U2) ACS711KEXLT-15AB-T
+Add Class Member: Failed to add class member : Component U2B (U2) ACS711KEXLT-15AB-T

@@ -1,0 +1,235 @@
+Removed Pin From Net: NetName=3V3 Pin=C9A-1
+Removed Pin From Net: NetName=GND Pin=C9A-2
+Removed Pin From Net: NetName=3V3 Pin=C9B-1
+Removed Pin From Net: NetName=GND Pin=C9B-2
+Removed Pin From Net: NetName=Vi_motor1 Pin=C10A-1
+Removed Pin From Net: NetName=GND Pin=C10A-2
+Removed Pin From Net: NetName=Vi_motor2 Pin=C10B-1
+Removed Pin From Net: NetName=GND Pin=C10B-2
+Removed Pin From Net: NetName=Vi_motor1 Pin=UHall1A-1
+Removed Pin From Net: NetName=GND Pin=UHall1A-3
+Removed Pin From Net: NetName=3V3 Pin=UHall1A-5
+Removed Pin From Net: NetName=GND Pin=UHall1A-6
+Removed Pin From Net: NetName=Vmotor1 Pin=UHall1A-7
+Removed Pin From Net: NetName=Vmotor1 Pin=UHall1A-8
+Removed Pin From Net: NetName=Vi_motor2 Pin=UHall1B-1
+Removed Pin From Net: NetName=GND Pin=UHall1B-3
+Removed Pin From Net: NetName=3V3 Pin=UHall1B-5
+Removed Pin From Net: NetName=GND Pin=UHall1B-6
+Removed Pin From Net: NetName=Vmotor2 Pin=UHall1B-7
+Removed Pin From Net: NetName=Vmotor2 Pin=UHall1B-8
+Change Component Footprint: Designator=C9A Old Footprint=CAPC1005X55N New Footprint=CAP-0805
+Change Component Footprint: Designator=C9B Old Footprint=CAPC1005X55N New Footprint=CAP-0805
+Change Component Footprint: Designator=C10A Old Footprint=CAPC1005X55N New Footprint=CAP-0805
+Change Component Footprint: Designator=C10B Old Footprint=CAPC1005X55N New Footprint=CAP-0805
+Change Component Comment : Designator=C9A Old Comment=0.1uF Ceramic Capacitor New Comment=CC0805KRX7R9BB104
+Change Component Comment : Designator=C9B Old Comment=0.1uF Ceramic Capacitor New Comment=CC0805KRX7R9BB104
+Change Component Comment : Designator=C10A Old Comment=0.1uF Ceramic Capacitor New Comment=CL21B102KBCNNNC
+Change Component Comment : Designator=C10B Old Comment=0.1uF Ceramic Capacitor New Comment=CL21B102KBCNNNC
+Change component parameters: Designator = "C9A" ("C9"); Footprint = "CAPC1005X55N"; UniqueID = "\1SPTKOHLZ\CIWHEAMX" ("\1SPTKOHLZ\CIWHEAMX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors - MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-CC0805KRX7R9BB104_C49678.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C49678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_YAGEO-YAGEO-CC0805KRX7R9BB104_C49678.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C49678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C49678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9B" ("C9"); Footprint = "CAPC1005X55N"; UniqueID = "\2SPTKOHLZ\CIWHEAMX" ("\2SPTKOHLZ\CIWHEAMX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors - MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-CC0805KRX7R9BB104_C49678.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C49678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_YAGEO-YAGEO-CC0805KRX7R9BB104_C49678.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C49678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C49678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10A" ("C10"); Footprint = "CAPC1005X55N"; UniqueID = "\1SPTKOHLZ\WDKXCOLZ" ("\1SPTKOHLZ\WDKXCOLZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.2V DC Bias"; Value = "1.008nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.5V DC Bias"; Value = "1.009nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.8V DC Bias"; Value = "1.011nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.35V DC Bias"; Value = "1.009nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1V DC Bias"; Value = "1.006nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 2.5V DC Bias"; Value = "1.013nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 3.3V DC Bias"; Value = "1.014nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 3.7V DC Bias"; Value = "1.015nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 4.2V DC Bias"; Value = "1.017nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 5V DC Bias"; Value = "1.018nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 9V DC Bias"; Value = "1.022nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 12V DC Bias"; Value = "1.021nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 15V DC Bias"; Value = "1.020nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 24V DC Bias"; Value = "1.012nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 36V DC Bias"; Value = "0.995nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 48V DC Bias"; Value = "0.975nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors - MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B102KBCNNNC_C46653.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C46653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-Samsung-Electro-Mechanics-CL21B102KBCNNNC_C46653.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Samsung Component Library"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://weblib.samsungsem.com/mlcc/mlcc-ec.do?partNumber=CL21B102KBCNNN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 1GHz"; Value = "3.83O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 1kHz"; Value = "1.43E+05O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 1MHz"; Value = "155O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 2GHz"; Value = "12.4O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 5GHz"; Value = "7.64O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 5kHz"; Value = "2.92E+04O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 5MHz"; Value = "31.6O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 10kHz"; Value = "1.47E+04O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 10MHz"; Value = "15.9O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 50kHz"; Value = "3E+03O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 50MHz"; Value = "3.25O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 100Hz"; Value = "1.39E+06O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 100kHz"; Value = "1.51E+03O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 100MHz"; Value = "1.41O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 500Hz"; Value = "2.85E+05O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 500kHz"; Value = "307O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 500MHz"; Value = "1.58O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C46653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21B102KBCNNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C46653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10B" ("C10"); Footprint = "CAPC1005X55N"; UniqueID = "\2SPTKOHLZ\WDKXCOLZ" ("\2SPTKOHLZ\WDKXCOLZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.2V DC Bias"; Value = "1.008nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.5V DC Bias"; Value = "1.009nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.8V DC Bias"; Value = "1.011nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1.35V DC Bias"; Value = "1.009nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 1V DC Bias"; Value = "1.006nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 2.5V DC Bias"; Value = "1.013nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 3.3V DC Bias"; Value = "1.014nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 3.7V DC Bias"; Value = "1.015nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 4.2V DC Bias"; Value = "1.017nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 5V DC Bias"; Value = "1.018nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 9V DC Bias"; Value = "1.022nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 12V DC Bias"; Value = "1.021nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 15V DC Bias"; Value = "1.020nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 24V DC Bias"; Value = "1.012nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 36V DC Bias"; Value = "0.995nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance @ 48V DC Bias"; Value = "0.975nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors - MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B102KBCNNNC_C46653.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C46653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-Samsung-Electro-Mechanics-CL21B102KBCNNNC_C46653.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Samsung Component Library"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://weblib.samsungsem.com/mlcc/mlcc-ec.do?partNumber=CL21B102KBCNNN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 1GHz"; Value = "3.83O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 1kHz"; Value = "1.43E+05O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 1MHz"; Value = "155O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 2GHz"; Value = "12.4O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 5GHz"; Value = "7.64O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 5kHz"; Value = "2.92E+04O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 5MHz"; Value = "31.6O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 10kHz"; Value = "1.47E+04O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 10MHz"; Value = "15.9O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 50kHz"; Value = "3E+03O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 50MHz"; Value = "3.25O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 100Hz"; Value = "1.39E+06O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 100kHz"; Value = "1.51E+03O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 100MHz"; Value = "1.41O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 500Hz"; Value = "2.85E+05O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 500kHz"; Value = "307O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance (0V Bias) @ 500MHz"; Value = "1.58O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C46653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21B102KBCNNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C46653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RES-0805
+Add component: Footprint Not Found RES-0805
+Added Component: Designator=U2A(XDCR_ACS711KEXLT-15AB-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-31AB-T/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS711KEXLT-31AB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-12 Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ACS711KEXLT-31AB-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-31AB-T/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2B(XDCR_ACS711KEXLT-15AB-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-31AB-T/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS711KEXLT-31AB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-12 Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ACS711KEXLT-31AB-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-31AB-T/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9A-1
+Added Pin To Net: NetName=3V3 Pin=C9A-2
+Added Pin To Net: NetName=GND Pin=C9B-1
+Added Pin To Net: NetName=3V3 Pin=C9B-2
+Added Pin To Net: NetName=GND Pin=C10A-1
+Added Pin To Net: NetName=Vi_motor1 Pin=C10A-2
+Added Pin To Net: NetName=GND Pin=C10B-1
+Added Pin To Net: NetName=Vi_motor2 Pin=C10B-2
+Add Pin To Net: Unknown Pin: Pin R17A-2
+Add Pin To Net: Unknown Pin: Pin R17B-2
+Added Pin To Net: NetName=26V Pin=U2A-1
+Added Pin To Net: NetName=Vmotor1 Pin=U2A-3
+Added Pin To Net: NetName=GND Pin=U2A-5
+Added Pin To Net: NetName=Vi_motor1 Pin=U2A-11
+Added Pin To Net: NetName=3V3 Pin=U2A-12
+Added Pin To Net: NetName=26V Pin=U2B-1
+Added Pin To Net: NetName=Vmotor2 Pin=U2B-3
+Added Pin To Net: NetName=GND Pin=U2B-5
+Added Pin To Net: NetName=Vi_motor2 Pin=U2B-11
+Added Pin To Net: NetName=3V3 Pin=U2B-12
+Change Net Name : Old Net Name=26V New Net Name=26V1
+Added Pin To Net: NetName=NetR17A_1 Pin=U2A-6
+Added Net: Name=NetR17A_1
+Added Pin To Net: NetName=NetR17B_1 Pin=U2B-6
+Added Net: Name=NetR17B_1
+Added Member To Class: ClassName=I1 Member=Component C9A (C9) CC0805KRX7R9BB104
+Added Member To Class: ClassName=I2 Member=Component C9B (C9) CC0805KRX7R9BB104
+Added Member To Class: ClassName=I1 Member=Component C10A (C10) CL21B102KBCNNNC
+Added Member To Class: ClassName=I2 Member=Component C10B (C10) CL21B102KBCNNNC
+Add Class Member: Failed to add class member : Component R17A (R17) 0805W8F1001T5E
+Add Class Member: Failed to add class member : Component R17B (R17) 0805W8F1001T5E
+Added Member To Class: ClassName=I1 Member=Component U2A (U2) ACS711KEXLT-15AB-T
+Added Member To Class: ClassName=I2 Member=Component U2B (U2) ACS711KEXLT-15AB-T

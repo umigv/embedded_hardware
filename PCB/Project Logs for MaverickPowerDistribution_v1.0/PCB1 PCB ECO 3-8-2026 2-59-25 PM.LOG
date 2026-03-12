@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetQ1A_1 Pin=R_Base1A-1
+Removed Pin From Net: NetName=NetD_Base1A_1 Pin=R_Base1A-2
+Removed Pin From Net: NetName=NetQ1B_1 Pin=R_Base1B-1
+Removed Pin From Net: NetName=NetD_Base1B_1 Pin=R_Base1B-2
+Removed Member From Class: ClassName=F1 Member=R_Base1A
+Removed Member From Class: ClassName=F2 Member=R_Base1B
+Added Component: Designator=R_BaseA(RESC1608X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE+Connectivity+Passive+Product/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE+Connectivity+Passive+Product/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R_BaseB(RESC1608X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE+Connectivity+Passive+Product/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE+Connectivity+Passive+Product/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1A_1 Pin=R_BaseA-1
+Added Pin To Net: NetName=NetD_Base1A_1 Pin=R_BaseA-2
+Added Pin To Net: NetName=NetQ1B_1 Pin=R_BaseB-1
+Added Pin To Net: NetName=NetD_Base1B_1 Pin=R_BaseB-2
+Added Member To Class: ClassName=F1 Member=Component R_BaseA (R_Base) CRG0603F10K/10
+Added Member To Class: ClassName=F2 Member=Component R_BaseB (R_Base) CRG0603F10K/10
