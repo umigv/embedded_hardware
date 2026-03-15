@@ -80,18 +80,22 @@ git push
 ```
 
 ---
+## Adding a New Board from an Existing Repo
 
-## Pushing Updates to an Existing Board
+If your board was previously its own git repository, delete the nested 
+`.git` folder before adding it here — otherwise git will treat it as a 
+submodule instead of tracking your files.
 
-```bash
-cd hardware/your-board-folder
-# make your changes
-git add .
-git commit -m "your-board-name: describe what changed (e.g. fix antenna footprint)"
-git push
+**Windows:**
+```powershell
+Remove-Item -Recurse -Force your-board-folder/.git
 ```
-
-Keep commit messages descriptive — future you will thank you.
+**Mac/Linux:**
+```bash
+rm -rf your-board-folder/.git
+```
+Your Altium files are unaffected — only the old repo history is removed, 
+which lives on your personal GitHub anyway.
 
 ---
 
