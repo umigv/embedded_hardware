@@ -1,0 +1,32 @@
+# -----------------------------------------------
+# UMARV Hardware Repo — .gitignore of root / Template
+# Covers Altium Designer auto-generated files
+# -----------------------------------------------
+
+# Altium history & previews (large, auto-regenerated)
+History/
+__Previews/
+__Backup/
+ProjectLogs/
+Logs/
+
+# Altium lock files (created when a file is open)
+*.lck
+*.Lck
+
+# Altium auto-saved backups
+*.bak
+*.AutoSave
+
+# Altium status/annotation files
+*.~*
+*.DXPPrjLog
+
+# -----------------------------------------------
+# What SHOULD be committed:
+#   .SchDoc       — schematic
+#   .PcbDoc       — PCB layout
+#   .PrjPcb       — project file
+#   gerbers/      — manufacturing outputs (manually exported)
+#   BOM.xlsx      — bill of materials
+#   README.md     — pinout, revision notes, ROS2 topic links
