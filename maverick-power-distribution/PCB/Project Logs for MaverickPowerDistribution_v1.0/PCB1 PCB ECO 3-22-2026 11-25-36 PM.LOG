@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=MICRO_SD1 Old DesignItemId=TF-01A New DesignItemId=
+Change Component Library : Designator=MICRO_SD1 Old Library=TF-01A.IntLib New Library=TF-01A.SchLib
+Added Member To Class: ClassName=Mass Storage Member=Component MICRO_SD1 TF-01A

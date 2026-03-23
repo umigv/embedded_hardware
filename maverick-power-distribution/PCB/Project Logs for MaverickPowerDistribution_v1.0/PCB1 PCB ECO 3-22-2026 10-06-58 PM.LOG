@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=BEAD1-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=OPAMP1_VINP Pin=LDO_1-2
+Removed Pin From Net: NetName=OPAMP1_VINP Pin=LDO_1-4
+Removed Pin From Net: NetName=3V3 Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-17
+Added Pin To Net: NetName=STM_Vdd Pin=BEAD1-1
+Added Pin To Net: NetName=STM_Vdd Pin=C5-2
+Added Pin To Net: NetName=STM_Vdd Pin=C6-2
+Added Pin To Net: NetName=STM_Vdd Pin=C7-2
+Added Pin To Net: NetName=STM_Vdd Pin=LDO_1-2
+Added Pin To Net: NetName=STM_Vdd Pin=LDO_1-4
+Added Pin To Net: NetName=STM_Vdd Pin=U1-1
+Added Pin To Net: NetName=STM_Vdd Pin=U1-17
+Added Net: Name=STM_Vdd
