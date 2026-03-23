@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=D_LED1-2
+Removed Pin From Net: NetName=GND Pin=D_LED2-2
+Change Component Footprint: Designator=D_LED1 Old Footprint=FP-AP2012EC-MFG New Footprint=LEDM1608X80
+Change Component Footprint: Designator=D_LED2 Old Footprint=FP-AP2012EC-MFG New Footprint=LEDM1608X80
+Change Component Comment : Designator=D_LED1 Old Comment= New Comment=LTST-C190GKT
+Change Component Comment : Designator=D_LED2 Old Comment= New Comment=LTST-C190GKT
+Change Component Designator: OldDesignator=D_LEDA NewDesignator=BLOWN_LEDA
+Change Component Designator: OldDesignator=D_LEDB NewDesignator=BLOWN_LEDB
+Change component parameters: Designator = "D_LED1" ("D_LED1"); Footprint = "FP-AP2012EC-MFG"; UniqueID = "\EZSMIZMW\JVHVKBVY" ("\EZSMIZMW\JVHVKBVY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Lite-On Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D_LED2" ("D_LED2"); Footprint = "FP-AP2012EC-MFG"; UniqueID = "\EZSMIZMW\KWWOOOFK" ("\EZSMIZMW\KWWOOOFK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Lite-On Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J_OLED(SULLINS_PPTC041LFBN-RC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPTC041LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D_LED1-C
+Added Pin To Net: NetName=GND Pin=D_LED2-C
+Added Pin To Net: NetName=3V3 Pin=J_OLED-1
+Added Pin To Net: NetName=GND Pin=J_OLED-2
+Added Pin To Net: NetName=I2C1_SCL Pin=J_OLED-3
+Added Pin To Net: NetName=I2C1_SDA Pin=J_OLED-4
+Change Net Name : Old Net Name=NetD_ledA_A New Net Name=NetBLOWN_LEDA_A
+Change Net Name : Old Net Name=NetD_ledB_A New Net Name=NetBLOWN_LEDB_A
+Added Pin To Net: NetName=NetD_LED1_A Pin=D_LED1-A
+Added Pin To Net: NetName=NetD_LED1_A Pin=R15-2
+Added Net: Name=NetD_LED1_A
+Added Pin To Net: NetName=NetD_LED2_A Pin=D_LED2-A
+Added Pin To Net: NetName=NetD_LED2_A Pin=R16-2
+Added Net: Name=NetD_LED2_A
+Added Member To Class: ClassName=MCU Member=Component J_OLED PPTC041LFBN-RC

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\PCB1.PcbDoc
-Date     : 3/19/2026
-Time     : 9:42:01 AM
+Date     : 3/22/2026
+Time     : 4:55:58 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Bottom Layer') Or IsVia Or IsThruPin),(OnLayer('Bottom Layer') Or IsVia Or IsThruPin)
 Rule Violations :0
@@ -28,18 +28,18 @@ Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer') Or IsVia
    Violation between Clearance Constraint: (2mil < 8mil) Between Pad D_Base1B-2(2140mil,3451mil) on Top Layer And Region (0 hole(s)) Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R_BLOWN1A-1(2450mil,4340mil) on Top Layer And Pad R_BLOWN1A-2(2450mil,4373.465mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R_BLOWN1B-1(2445mil,3478.268mil) on Top Layer And Pad R_BLOWN1B-2(2445mil,3511.732mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R10-1(4805mil,4095mil) on Top Layer And Pad R10-2(4771.535mil,4095mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R11-1(4863.268mil,4095mil) on Top Layer And Pad R11-2(4896.732mil,4095mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R10-1(4805mil,4080mil) on Top Layer And Pad R10-2(4771.535mil,4080mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R11-1(4873.268mil,4080mil) on Top Layer And Pad R11-2(4906.732mil,4080mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R14-1(3800mil,3901.732mil) on Top Layer And Pad R14-2(3800mil,3868.268mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R15-1(3985mil,3086.732mil) on Top Layer And Pad R15-2(3985mil,3053.268mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R16-1(3840mil,3081.732mil) on Top Layer And Pad R16-2(3840mil,3048.268mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R3-1(3551.535mil,4145mil) on Top Layer And Pad R3-2(3585mil,4145mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R4-1(4198.268mil,3780mil) on Top Layer And Pad R4-2(4231.732mil,3780mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R5-1(4278.268mil,3655mil) on Top Layer And Pad R5-2(4311.732mil,3655mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R6-1(4473.268mil,3335mil) on Top Layer And Pad R6-2(4506.732mil,3335mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R7-1(4300mil,3315mil) on Top Layer And Pad R7-2(4266.535mil,3315mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R8-1(4371.535mil,3355mil) on Top Layer And Pad R8-2(4405mil,3355mil) on Top Layer 
-   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R9-1(4153.268mil,3880mil) on Top Layer And Pad R9-2(4186.732mil,3880mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R4-1(4183.268mil,3750mil) on Top Layer And Pad R4-2(4216.732mil,3750mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R5-1(4278.268mil,3690mil) on Top Layer And Pad R5-2(4311.732mil,3690mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R6-1(4483.268mil,3350mil) on Top Layer And Pad R6-2(4516.732mil,3350mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R7-1(4281.535mil,3335mil) on Top Layer And Pad R7-2(4248.071mil,3335mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R8-1(4385mil,3348.268mil) on Top Layer And Pad R8-2(4385mil,3381.732mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad R9-1(4183.268mil,3865mil) on Top Layer And Pad R9-2(4216.732mil,3865mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad U2A-1(3041.378mil,3769.685mil) on Top Layer And Pad U2A-3(3041.378mil,3730.315mil) on Top Layer 
    Violation between Clearance Constraint: (6.96mil < 8mil) Between Pad U2A-10(3147.087mil,3779.528mil) on Top Layer And Pad U2A-11(3119.528mil,3807.087mil) on Top Layer 
    Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad U2A-11(3119.528mil,3807.087mil) on Top Layer And Pad U2A-12(3099.843mil,3807.087mil) on Top Layer 
@@ -56,11 +56,23 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Arc (1850mil,2655mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1850mil,2655mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1850mil,4850mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1850mil,4850mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (3165mil,2655mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (3165mil,2655mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (3440mil,4850mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (3440mil,4850mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (5125mil,2655mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (5125mil,2655mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (5250mil,4525mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (5250mil,4525mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Net 26V1 Between Pad C22-2(3580mil,4499.055mil) on Top Layer And Pad R1-2(3585mil,4316.654mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net OPAMP1_VINP Between Pad Free-3(3585mil,4060mil) on Top Layer And Pad Free-3(3585mil,4100mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net SWO Between Pad R12-1(4063.268mil,3880mil) on Top Layer And Pad R12-2(4096.732mil,3880mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad R13-1(4243.268mil,3710mil) on Top Layer And Track (4276.732mil,3656.535mil)(4276.732mil,3710mil) on Top Layer 
-Rule Violations :4
+   Violation between Un-Routed Net Constraint: Net SWO Between Pad R12-1(4058.268mil,3865mil) on Top Layer And Pad R12-2(4091.732mil,3865mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SWDIO Between Track (4067mil,3688.74mil)(4182.008mil,3688.74mil) on Top Layer And Pad R13-2(4216.732mil,3690mil) on Top Layer 
+Rule Violations :16
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -87,7 +99,13 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
-Rule Violations :0
+   Violation between Minimum Annular Ring: (No Ring) Pad Free-4(1850mil,2655mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad Free-4(1850mil,4850mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad Free-4(3165mil,2655mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad Free-4(3440mil,4850mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad Free-4(5125mil,2655mil) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad Free-4(5250mil,4525mil) on Multi-Layer (Annular Ring missing on Top Layer)
+Rule Violations :6
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
@@ -116,7 +134,6 @@ Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Text "OLED1" (4215mil,5474mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4220.35mil,4680.38mil)(4220.35mil,5438.65mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4220.35mil,5438.65mil)(5271.53mil,5438.65mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4242.34mil,5417.38mil)(4246.27mil,5413.45mil) on Top Overlay 
@@ -126,12 +143,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4254.15mil,5417.38mil)(4269.89mil,5417.38mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (5242.33mil,4763.84mil)(5242.33mil,5417.38mil) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (5271.53mil,4680.38mil)(5271.53mil,5438.65mil) on Top Overlay 
-Rule Violations :10
+Rule Violations :9
 
 Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 59
+Violations Detected : 76
 Waived Violations : 0
 Time Elapsed        : 00:00:00

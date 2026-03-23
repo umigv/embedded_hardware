@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=D_LEDA-2
+Removed Pin From Net: NetName=GND Pin=D_LEDB-2
+Removed Pin From Net: NetName=NetC24_2 Pin=R21-1
+Removed Pin From Net: NetName=NetC24_1 Pin=R21-2
+Change Component Footprint: Designator=D_LEDA Old Footprint=FP-AP2012EC-MFG New Footprint=LED_KT-0603R
+Change Component Footprint: Designator=D_LEDB Old Footprint=FP-AP2012EC-MFG New Footprint=LED_KT-0603R
+Change Component Footprint: Designator=R21 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=RESC1607X60N
+Change Component Footprint: Designator=U3 Old Footprint=FP-DDC0006A-IPC_A New Footprint=SOT95P280X110-6N
+Change Component Footprint: Designator=R22 Old Footprint=RESC2010(5025)_N New Footprint=RES-0603
+Change Component Comment : Designator=D_LEDA Old Comment= New Comment=KT-0603R
+Change Component Comment : Designator=D_LEDB Old Comment= New Comment=KT-0603R
+Change Component Comment : Designator=R21 Old Comment= New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=U3 Old Comment= New Comment=TPS561201DDCT
+Change Component Comment : Designator=R22 Old Comment=13K7 1% 2010(5025) New Comment=0603WAF1002T5E
+Change Managed Component Library Link : Designator=R22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B05BDB78-4F97-49D0-BF84-387446644F7C New ItemGUID= Old RevisionGUID=E598EA7C-B6E4-4284-BC46-FCB89DD40B14 New RevisionGUID=
+Change component parameters: Designator = "D_LEDA" ("D_led"); Footprint = "FP-AP2012EC-MFG"; UniqueID = "\1DRDTEQYK\LAWXMQLE" ("\1DRDTEQYK\LAWXMQLE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "KT-0603R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D_LEDB" ("D_led"); Footprint = "FP-AP2012EC-MFG"; UniqueID = "\2DRDTEQYK\LAWXMQLE" ("\2DRDTEQYK\LAWXMQLE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "KT-0603R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "FP-CRCW0603-e3-MFG"; UniqueID = "\ONSYYDJX\ACIUVJAO" ("\ONSYYDJX\ACIUVJAO")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC2010(5025)_N"; UniqueID = "\ONSYYDJX\BVLTELON" ("\ONSYYDJX\BVLTELON")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/23520-0603WAF1372T5E/C22793"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "13.7kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "FP-DDC0006A-IPC_A"; UniqueID = "\ONSYYDJX\ZRUIIOTQ" ("\ONSYYDJX\ZRUIIOTQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS561201DDCT/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TPS561201DDCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-THN-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS561201DDCT/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D_LEDA-C
+Added Pin To Net: NetName=GND Pin=D_LEDB-C
+Added Pin To Net: NetName=NetC24_1 Pin=R21-1
+Added Pin To Net: NetName=NetC24_2 Pin=R21-2
+Added Pin To Net: NetName=3V3 Pin=U3-5
+Added Pin To Net: NetName=NetD_ledA_A Pin=D_LEDA-A
+Added Pin To Net: NetName=NetD_ledA_A Pin=Q1A-3
+Added Pin To Net: NetName=NetD_ledA_A Pin=R_BLOWN1A-1
+Added Net: Name=NetD_ledA_A
+Added Pin To Net: NetName=NetD_ledB_A Pin=D_LEDB-A
+Added Pin To Net: NetName=NetD_ledB_A Pin=Q1B-3
+Added Pin To Net: NetName=NetD_ledB_A Pin=R_BLOWN1B-1
+Added Net: Name=NetD_ledB_A
