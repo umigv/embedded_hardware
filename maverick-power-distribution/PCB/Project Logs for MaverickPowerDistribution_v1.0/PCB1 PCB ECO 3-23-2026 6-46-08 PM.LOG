@@ -1,0 +1,22 @@
+Change Component Description : Designator=U2A Old Description=Current Sensor 31A 1 Channel Hall Effect, Open Loop Bidirectional 12-PowerWFQFN New Description=Current Sensor 15.5A 1 Channel Hall Effect, Open Loop Bidirectional 12-PowerWFQFN
+Change Component Description : Designator=U2B Old Description=Current Sensor 31A 1 Channel Hall Effect, Open Loop Bidirectional 12-PowerWFQFN New Description=Current Sensor 15.5A 1 Channel Hall Effect, Open Loop Bidirectional 12-PowerWFQFN
+Change Component Library : Designator=U2A Old Library=ACS711KEXLT-15AB-T.IntLib New Library=ACS711KEXLT-15AB-T.SchLib
+Change Component Library : Designator=U2B Old Library=ACS711KEXLT-15AB-T.IntLib New Library=ACS711KEXLT-15AB-T.SchLib
+Change component parameters: Designator = "U2A" ("U2"); Footprint = "XDCR_ACS711KEXLT-15AB-T"; UniqueID = "\1SPTKOHLZ\TKXFXWAZ" ("\1SPTKOHLZ\TKXFXWAZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-15AB-T/Allegro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ACS711KEXLT-15AB-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "PowerWFQFN-12 Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-15AB-T/Allegro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2B" ("U2"); Footprint = "XDCR_ACS711KEXLT-15AB-T"; UniqueID = "\2SPTKOHLZ\TKXFXWAZ" ("\2SPTKOHLZ\TKXFXWAZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-15AB-T/Allegro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ACS711KEXLT-15AB-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "PowerWFQFN-12 Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-15AB-T/Allegro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

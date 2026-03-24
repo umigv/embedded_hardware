@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J1_PWR
+Added Member To Class: ClassName=Power Member=Component J1_PWR 43045-0201

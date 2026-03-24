@@ -1,2 +1,3 @@
 Layer Pairs Export File for PCB: D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\PCB1.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb1-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
