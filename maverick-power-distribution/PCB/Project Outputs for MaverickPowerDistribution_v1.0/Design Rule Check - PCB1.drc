@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\PCB1.PcbDoc
-Date     : 3/23/2026
-Time     : 9:01:49 PM
+Date     : 10/2/2026
+Time     : 1:21:52 AM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -22,7 +22,8 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net OPAMP1_VINP Between Pad Free-3(91.059mm,99.949mm) on Top Layer And Pad Free-3(91.059mm,101.219mm) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -63,11 +64,7 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
-   Waived Violation between Un-Routed Net Constraint: Net OPAMP1_VINP Between Pad Free-3(91.059mm,99.949mm) on Top Layer And Track (91.081mm,102.511mm)(91.081mm,104.118mm) on Top Layer Waived by Yi Keen Lim at 3/23/2026 8:28:39 PMHand Solder After
-Waived Violations :1
 
-
-Violations Detected : 0
-Waived Violations : 1
+Violations Detected : 1
+Waived Violations : 0
 Time Elapsed        : 00:00:00
