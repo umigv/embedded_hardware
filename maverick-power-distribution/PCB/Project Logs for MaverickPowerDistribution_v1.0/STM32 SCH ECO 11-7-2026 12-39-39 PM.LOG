@@ -1,0 +1,27 @@
+Replace Part B_OLED1 TS-1187A-B-A-B in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with TS-1187A-B-A-B from SamacSys.SchLib
+Replace Part B_RST1 TS-1187A-B-A-B in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with TS-1187A-B-A-B from SamacSys.SchLib
+Replace Part BEAD1 GZ1608D601TF in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with GZ1608D601TF from SamacSys.SchLib
+Replace Part C1 CL05B103KB5NNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05B103KB5NNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C2 CL05B104KB54PNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05B104KB54PNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C3 CL05A105KA5NQNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05A105KA5NQNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C4 CL05B103KB5NNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05B103KB5NNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C5 CL05A475MP5NRNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05A475MP5NRNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C6 CL05B104KO5NNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05B104KO5NNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C7 CL05B104KO5NNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05B104KO5NNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C8 CL05B103KB5NNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CL05B103KB5NNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part D_LED1 LTST-C190GKT in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with LTST-C190GKT from LTST-C190GKT.SchLib
+Replace Part D_LED2 LTST-C190GKT in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with LTST-C190GKT from LTST-C190GKT.SchLib
+Replace Part H_OLED1 4-pin Header in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 4-pin Header from Schlib1.SchLib
+Replace Part H_SD1 4-pin Header in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 4-pin Header from Schlib1.SchLib
+Replace Part J_OLED PPTC041LFBN-RC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with PPTC041LFBN-RC from PPTC041LFBN-RC.IntLib
+Replace Part R4 CRCW040210K0FKED in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with CRCW040210K0FKED from CRCW040210K0FKED.SchLib
+Replace Part R10 0402WGF1002TCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF1002TCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R11 0402WGF1002TCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF1002TCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R12 0402WGF220JTCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF220JTCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R13 0402WGF220JTCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF220JTCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R14 0402WGF1002TCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF1002TCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R15 0402WGF1000TCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF1000TCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R16 0402WGF1000TCE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with 0402WGF1000TCE from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part U1 STM32L412KBT6 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with STM32L412KBT6 from STM32L412KBT6.SchLib
+Replace Part U1 STM32L412KBT6 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with STM32L412KBT6 from STM32L412KBT6.SchLib
+Replace Part X1 SX3M32.768KM20F30TNN in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\STM32.SchDoc with SX3M32.768KM20F30TNN from SX3M32.768KM20F30TNN1_SX3M32.768KM20F30TNN.SCHLIB

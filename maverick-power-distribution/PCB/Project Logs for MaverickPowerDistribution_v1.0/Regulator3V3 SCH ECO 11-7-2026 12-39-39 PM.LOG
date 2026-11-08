@@ -1,0 +1,9 @@
+Update Managed Component C22 From CMP-03913-53914714-2[885012106009] To CMP-03913-53914714-2[885012106009] in Regulator3V3.SchDoc
+Replace Part C23 CL05B104KO5NNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Regulator3V3.SchDoc with CL05B104KO5NNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C24 0603B682K500NT in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Regulator3V3.SchDoc with 0603B682K500NT from jlcpcb_2025_04_capacitors_basic.schlib
+Replace Part C25 CL21A476MQYNNNE in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Regulator3V3.SchDoc with CL21A476MQYNNNE from jlcpcb_2024_10_capacitors_basic.schlib
+Update Managed Component L1 From CMP-03913-148605660-1[74439325056] To CMP-03913-148605660-1[74439325056] in Regulator3V3.SchDoc
+Update Managed Component LDO_1 From CMP-209535-000001-1[AMS1117-3.3] To CMP-209535-000001-1[AMS1117-3.3] in Regulator3V3.SchDoc
+Replace Part R21 RC0603FR-07100KL in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Regulator3V3.SchDoc with RC0603FR-07100KL from RC0603FR-07100KL.SchLib
+Replace Part R22 0603WAF1302T5E in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Regulator3V3.SchDoc with 0603WAF1302T5E from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part U3 TPS561201DDCT in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Regulator3V3.SchDoc with TPS561201DDCT from TPS561201DDCT.SchLib

@@ -1,0 +1,5 @@
+Replace Part D1 DF2S6.2FS,L3M in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Power.SchDoc with DF2S6.2FS,L3M from DF2S6P2FS,L3M.SchLib
+Replace Part J1 PWR 1868076 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Power.SchDoc with 1868076 from 1868076.SchLib
+Replace Part R1 RC0603FR-07100KL in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Power.SchDoc with RC0603FR-07100KL from RC0603FR-07100KL.SchLib
+Replace Part R2 RC0603FR-07100KL in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Power.SchDoc with RC0603FR-07100KL from RC0603FR-07100KL.SchLib
+Replace Part R3 RC0603FR-07100KL in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Power.SchDoc with RC0603FR-07100KL from RC0603FR-07100KL.SchLib

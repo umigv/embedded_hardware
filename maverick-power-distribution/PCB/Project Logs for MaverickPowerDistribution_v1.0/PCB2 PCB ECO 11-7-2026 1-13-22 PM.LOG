@@ -1,0 +1,463 @@
+Removed Pin From Net: NetName=GND Pin=C10A-1
+Removed Pin From Net: NetName=Vi_motor1 Pin=C10A-2
+Removed Pin From Net: NetName=GND Pin=C10B-1
+Removed Pin From Net: NetName=Vi_motor2 Pin=C10B-2
+Removed Pin From Net: NetName=3V3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=26V1 Pin=C22-2
+Removed Pin From Net: NetName=NetC24_1 Pin=C24-1
+Removed Pin From Net: NetName=NetC24_2 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=NetC24_2 Pin=C25-2
+Removed Pin From Net: NetName=NetC23_2 Pin=L1-1
+Removed Pin From Net: NetName=NetC16_2 Pin=OLED1-2
+Removed Pin From Net: NetName=NetC16_1 Pin=OLED1-3
+Removed Pin From Net: NetName=NetC17_2 Pin=OLED1-4
+Removed Pin From Net: NetName=NetC17_1 Pin=OLED1-5
+Removed Pin From Net: NetName=3V3 Pin=R4-1
+Removed Pin From Net: NetName=\C\S\ Pin=R4-2
+Removed Pin From Net: NetName=I2C1_SCL Pin=R10-1
+Removed Pin From Net: NetName=3V3 Pin=R10-2
+Removed Pin From Net: NetName=I2C1_SDA Pin=R11-1
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=BOOT0 Pin=R14-2
+Removed Pin From Net: NetName=LED1 Pin=R15-1
+Removed Pin From Net: NetName=NetD_LED1_A Pin=R15-2
+Removed Pin From Net: NetName=LED2 Pin=R16-1
+Removed Pin From Net: NetName=NetD_LED2_A Pin=R16-2
+Removed Pin From Net: NetName=NetQ1A_1 Pin=R_BaseA-1
+Removed Pin From Net: NetName=NetD_Base1A_1 Pin=R_BaseA-2
+Removed Pin From Net: NetName=NetQ1B_1 Pin=R_BaseB-1
+Removed Pin From Net: NetName=NetD_Base1B_1 Pin=R_BaseB-2
+Removed Pin From Net: NetName=NetC23_2 Pin=U3-2
+Removed Pin From Net: NetName=NetC23_1 Pin=U3-6
+Change Component Footprint: Designator=C1 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C2 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C3 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C4 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C6 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C7 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C8 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C16 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C17 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C18 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C19 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C20 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C21 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C23 Old Footprint=CAP-0402 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C24 Old Footprint=CAP-0603 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C10A Old Footprint=CAP-0805 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C10B Old Footprint=CAP-0805 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C25 Old Footprint=CAP-0805 New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC1005X55N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=R20 Old Footprint=R0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R1 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R2 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R3 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R10 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R11 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R12 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R13 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R14 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R15 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R16 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R17A Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R17B Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R22 Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R_BaseA Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R_BaseB Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R_BLOWN1A Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R_BLOWN1B Old Footprint=RES-0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R4 Old Footprint=RES_CRCW_0402 New Footprint=RESC1607X60N
+Change Component Footprint: Designator=C22 Old Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow New Footprint=CAPC1608X90N
+Change Component Comment : Designator=D_Base1A Old Comment= New Comment=Diode
+Change Component Comment : Designator=D_Base1B Old Comment= New Comment=Diode
+Change Component Comment : Designator=BLOWN_LEDA Old Comment= New Comment=KT-0603R
+Change Component Comment : Designator=BLOWN_LEDB Old Comment= New Comment=KT-0603R
+Change Component Comment : Designator=D_LED1 Old Comment= New Comment=LTST-C190GKT
+Change Component Comment : Designator=D_LED2 Old Comment= New Comment=LTST-C190GKT
+Change Component Comment : Designator=R17A Old Comment= New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R17B Old Comment= New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R21 Old Comment= New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=U3 Old Comment= New Comment=TPS561201DDCT
+Change Component Comment : Designator=C15 Old Comment=0.1uF Ceramic Capacitor New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=R20 Old Comment=390kO New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R12 Old Comment=0402WGF220JTCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R13 Old Comment=0402WGF220JTCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R15 Old Comment=0402WGF1000TCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R16 Old Comment=0402WGF1000TCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R10 Old Comment=0402WGF1002TCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R11 Old Comment=0402WGF1002TCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R14 Old Comment=0402WGF1002TCE New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=C24 Old Comment=0603B682K500NT New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=R_BaseA Old Comment=0603WAF1002T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R_BaseB Old Comment=0603WAF1002T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R3 Old Comment=0603WAF1003T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R_BLOWN1A Old Comment=0603WAF1202T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R_BLOWN1B Old Comment=0603WAF1202T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R22 Old Comment=0603WAF1302T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R1 Old Comment=0603WAF3003T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=R2 Old Comment=0603WAF5103T5E New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=C22 Old Comment=885012106009 New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=B_OLED1 Old Comment=Button New Comment=Button Switch
+Change Component Comment : Designator=B_RST1 Old Comment=Button New Comment=Button Switch
+Change Component Comment : Designator=C3 Old Comment=CL05A105KA5NQNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C19 Old Comment=CL05A106MQ5NUNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C20 Old Comment=CL05A106MQ5NUNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C21 Old Comment=CL05A106MQ5NUNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C16 Old Comment=CL05A225MQ5NSNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C17 Old Comment=CL05A225MQ5NSNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C5 Old Comment=CL05A475MP5NRNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C1 Old Comment=CL05B103KB5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C4 Old Comment=CL05B103KB5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C8 Old Comment=CL05B103KB5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C2 Old Comment=CL05B104KB54PNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C6 Old Comment=CL05B104KO5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C7 Old Comment=CL05B104KO5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C18 Old Comment=CL05B104KO5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C23 Old Comment=CL05B104KO5NNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C25 Old Comment=CL21A476MQYNNNE New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C10A Old Comment=CL21B102KBCNNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=C10B Old Comment=CL21B102KBCNNNC New Comment=C0603C105K4RACTU
+Change Component Comment : Designator=R4 Old Comment=CRCW040210K0FKED New Comment=RC0603FR-07100KL
+Change Component Comment : Designator=Q1A Old Comment=SS8050 New Comment=SS8050(RANGE:200-350)
+Change Component Comment : Designator=Q1B Old Comment=SS8050 New Comment=SS8050(RANGE:200-350)
+Change Managed Component Library Link : Designator=C22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=A3F5E28E-D5C1-4B28-B4BE-FDC28308AA27 New ItemGUID= Old RevisionGUID=C508C3C4-62A5-44DD-AF87-96CBE5AC6560 New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\NMMGDWCP" ("\EZSMIZMW\NMMGDWCP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\NCBWSACM" ("\EZSMIZMW\NCBWSACM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\CTHWIHFB" ("\EZSMIZMW\CTHWIHFB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\ZVRYEDBL" ("\EZSMIZMW\ZVRYEDBL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\LAZHAQLA" ("\EZSMIZMW\LAZHAQLA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\JWDQEHVQ" ("\EZSMIZMW\JWDQEHVQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\GSOGVOHP" ("\EZSMIZMW\GSOGVOHP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\QCYONDPK" ("\EZSMIZMW\QCYONDPK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10A" ("C10"); Footprint = "CAP-0805"; UniqueID = "\1SPTKOHLZ\OYYSZUEZ" ("\1SPTKOHLZ\OYYSZUEZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10B" ("C10"); Footprint = "CAP-0805"; UniqueID = "\2SPTKOHLZ\OYYSZUEZ" ("\2SPTKOHLZ\OYYSZUEZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC1005X55N"; UniqueID = "\EZSMIZMW\WEBXLOWV\EEEBLFNH" ("\EZSMIZMW\WEBXLOWV\EEEBLFNH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\SULGYBPV\UHXAKDNO" ("\EZSMIZMW\SULGYBPV\UHXAKDNO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\SULGYBPV\HKUUYVMN" ("\EZSMIZMW\SULGYBPV\HKUUYVMN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\SULGYBPV\WUMJRRGJ" ("\EZSMIZMW\SULGYBPV\WUMJRRGJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\SULGYBPV\FEATHEHI" ("\EZSMIZMW\SULGYBPV\FEATHEHI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\SULGYBPV\RGRNFHKO" ("\EZSMIZMW\SULGYBPV\RGRNFHKO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAP-0402"; UniqueID = "\EZSMIZMW\SULGYBPV\ZIYDNJRE" ("\EZSMIZMW\SULGYBPV\ZIYDNJRE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow"; UniqueID = "\DIKAZNER\KGJEPFGO" ("\DIKAZNER\KGJEPFGO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "680nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAP-0402"; UniqueID = "\DIKAZNER\HXJOGTXM" ("\DIKAZNER\HXJOGTXM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAP-0603"; UniqueID = "\DIKAZNER\YSCKDBOP" ("\DIKAZNER\YSCKDBOP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAP-0805"; UniqueID = "\DIKAZNER\ACCDNPEW" ("\DIKAZNER\ACCDNPEW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C105K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "WE-XHMI_4040"; UniqueID = "\DIKAZNER\NQFSPXXJ" ("\DIKAZNER\NQFSPXXJ")
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES-0402"; UniqueID = "\HQUUXCVS" ("\HQUUXCVS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "300kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES-0402"; UniqueID = "\ZAJJKZVL" ("\ZAJJKZVL")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "510kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES-0402"; UniqueID = "\WADVVHWU" ("\WADVVHWU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_CRCW_0402"; UniqueID = "\EZSMIZMW\ZCPYXDOS" ("\EZSMIZMW\ZCPYXDOS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\FUUZAMUG" ("\EZSMIZMW\FUUZAMUG")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\UZYCZHKH" ("\EZSMIZMW\UZYCZHKH")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\AFHXMFUL" ("\EZSMIZMW\AFHXMFUL")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\XMXNODAR" ("\EZSMIZMW\XMXNODAR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\MIADXAYC" ("\EZSMIZMW\MIADXAYC")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\CCVUDWRM" ("\EZSMIZMW\CCVUDWRM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES-0402"; UniqueID = "\EZSMIZMW\LGGFSXSY" ("\EZSMIZMW\LGGFSXSY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17A" ("R17"); Footprint = "RES-0402"; UniqueID = "\1SPTKOHLZ\NWEVBYGN" ("\1SPTKOHLZ\NWEVBYGN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17B" ("R17"); Footprint = "RES-0402"; UniqueID = "\2SPTKOHLZ\NWEVBYGN" ("\2SPTKOHLZ\NWEVBYGN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "R0402"; UniqueID = "\EZSMIZMW\SULGYBPV\YVONSWGV" ("\EZSMIZMW\SULGYBPV\YVONSWGV")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "390kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RESC1607X60N"; UniqueID = "\DIKAZNER\DCJIXAHF" ("\DIKAZNER\DCJIXAHF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RES-0402"; UniqueID = "\DIKAZNER\VMSJSITO" ("\DIKAZNER\VMSJSITO")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.7kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_BaseA" ("R_Base"); Footprint = "RES-0402"; UniqueID = "\1DRDTEQYK\BGRDGKQR" ("\1DRDTEQYK\BGRDGKQR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_BaseB" ("R_Base"); Footprint = "RES-0402"; UniqueID = "\2DRDTEQYK\BGRDGKQR" ("\2DRDTEQYK\BGRDGKQR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_BLOWN1A" ("R_BLOWN1"); Footprint = "RES-0402"; UniqueID = "\1DRDTEQYK\ZEXLXYRE" ("\1DRDTEQYK\ZEXLXYRE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_BLOWN1B" ("R_BLOWN1"); Footprint = "RES-0402"; UniqueID = "\2DRDTEQYK\ZEXLXYRE" ("\2DRDTEQYK\ZEXLXYRE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vi_motor1 Pin=C10A-1
+Added Pin To Net: NetName=GND Pin=C10A-2
+Added Pin To Net: NetName=Vi_motor2 Pin=C10B-1
+Added Pin To Net: NetName=GND Pin=C10B-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=26V1 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=NetC23_1 Pin=L1-1
+Added Pin To Net: NetName=NetC16_1 Pin=OLED1-2
+Added Pin To Net: NetName=NetC16_2 Pin=OLED1-3
+Added Pin To Net: NetName=NetC17_1 Pin=OLED1-4
+Added Pin To Net: NetName=NetC17_2 Pin=OLED1-5
+Added Pin To Net: NetName=\C\S\ Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=I2C1_SCL Pin=R10-2
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=I2C1_SDA Pin=R11-2
+Added Pin To Net: NetName=BOOT0 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetD_LED1_A Pin=R15-1
+Added Pin To Net: NetName=LED1 Pin=R15-2
+Added Pin To Net: NetName=NetD_LED2_A Pin=R16-1
+Added Pin To Net: NetName=LED2 Pin=R16-2
+Added Pin To Net: NetName=NetD_Base1A_1 Pin=R_BaseA-1
+Added Pin To Net: NetName=NetQ1A_1 Pin=R_BaseA-2
+Added Pin To Net: NetName=NetD_Base1B_1 Pin=R_BaseB-1
+Added Pin To Net: NetName=NetQ1B_1 Pin=R_BaseB-2
+Added Pin To Net: NetName=NetC23_1 Pin=U3-2
+Added Pin To Net: NetName=NetC23_2 Pin=U3-6
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC24_1
+Add Net: Net with name "3V3" already exists
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=C21-1
+Added Pin To Net: NetName=NetC20_1 Pin=OLED1-27
+Added Pin To Net: NetName=NetC20_1 Pin=OLED1-28
+Added Net: Name=NetC20_1

@@ -1,0 +1,87 @@
+Added Component: Designator=BLOWN_LEDA(LED_KT-0603R)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KT-0603R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BLOWN_LEDB(LED_KT-0603R)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KT-0603R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KT-0603R/Hubei+KENTO+Elec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP-0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "6.8nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors - MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B682K500NT_C1631.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C1631"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-FH-Guangdong-Fenghua-Advanced-Tech-0603B682K500NT_C1631.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C1631"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603B682K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C1631"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D_LED1(LEDM1608X80)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Lite-On Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D_LED2(LEDM1608X80)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Lite-On Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC1607X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0603FR-07100KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS561201DDCT/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS561201DDCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-THN-6 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS561201DDCT/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBLOWN_LEDA_A Pin=BLOWN_LEDA-A
+Added Pin To Net: NetName=GND Pin=BLOWN_LEDA-C
+Added Pin To Net: NetName=NetBLOWN_LEDB_A Pin=BLOWN_LEDB-A
+Added Pin To Net: NetName=GND Pin=BLOWN_LEDB-C
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetD_LED1_A Pin=D_LED1-A
+Added Pin To Net: NetName=GND Pin=D_LED1-C
+Added Pin To Net: NetName=NetD_LED2_A Pin=D_LED2-A
+Added Pin To Net: NetName=GND Pin=D_LED2-C
+Added Pin To Net: NetName=NetC24_1 Pin=R21-1
+Added Pin To Net: NetName=NetC24_2 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetC23_2 Pin=U3-2
+Added Pin To Net: NetName=26V1 Pin=U3-3
+Added Pin To Net: NetName=NetC24_1 Pin=U3-4
+Added Pin To Net: NetName=NetD1_1 Pin=U3-5
+Added Pin To Net: NetName=NetC23_1 Pin=U3-6
+Added Member To Class: ClassName=F1 Member=Component BLOWN_LEDA (BLOWN_LED)
+Added Member To Class: ClassName=F2 Member=Component BLOWN_LEDB (BLOWN_LED)
+Added Member To Class: ClassName=Buck + LDO Member=Component C24 0603B682K500NT
+Added Member To Class: ClassName=MCU Member=Component D_LED1
+Added Member To Class: ClassName=MCU Member=Component D_LED2
+Added Member To Class: ClassName=Buck + LDO Member=Component R21
+Added Member To Class: ClassName=Buck + LDO Member=Component U3

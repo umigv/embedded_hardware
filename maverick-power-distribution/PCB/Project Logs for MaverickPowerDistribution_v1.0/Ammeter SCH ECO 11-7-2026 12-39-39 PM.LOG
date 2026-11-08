@@ -1,0 +1,4 @@
+Replace Part C9 CC0805KRX7R9BB104 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Ammeter.SchDoc with CC0805KRX7R9BB104 from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part C10 CL21B102KBCNNNC in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Ammeter.SchDoc with CL21B102KBCNNNC from jlcpcb_2024_10_capacitors_basic.schlib
+Replace Part R17 0603WAF1001T5E in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Ammeter.SchDoc with 0603WAF1001T5E from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part U2 ACS711KEXLT-15AB-T in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Ammeter.SchDoc with ACS711KEXLT-15AB-T from ACS711KEXLT-15AB-T.SchLib

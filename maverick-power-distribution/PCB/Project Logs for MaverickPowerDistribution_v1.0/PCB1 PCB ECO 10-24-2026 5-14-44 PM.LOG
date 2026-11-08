@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=NetD_Base1A_2 Pin=R_BLOWN1A-2
+Removed Pin From Net: NetName=NetD_Base1B_2 Pin=R_BLOWN1B-2
+Removed Pin From Net: NetName=3V3 Pin=U3-5
+Change Footprint: Footprint Not Found CAPC0603X33N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1005X60N New Footprint=CAP-0402
+Change Component Footprint: Designator=C18 Old Footprint=CAPC1005X60N New Footprint=CAP-0402
+Change Component Footprint: Designator=C19 Old Footprint=CAPC1005X60N New Footprint=CAP-0402
+Change Component Footprint: Designator=R3 Old Footprint=RES-0402 New Footprint=RES-0603
+Change Component Footprint: Designator=R_BLOWN1A Old Footprint=RES-0402 New Footprint=RES-0603
+Change Component Footprint: Designator=R_BLOWN1B Old Footprint=RES-0402 New Footprint=RES-0603
+Change Component Footprint: Designator=R1 Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Footprint: Designator=R2 Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Footprint: Designator=R17A Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Footprint: Designator=R17B Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Footprint: Designator=R22 Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Footprint: Designator=R_BaseA Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Footprint: Designator=R_BaseB Old Footprint=RESC1607X60N New Footprint=RES-0603
+Change Component Comment : Designator=R3 Old Comment=0402WGF1003TCE New Comment=0603WAF1003T5E
+Change Component Comment : Designator=R_BLOWN1A Old Comment=0402WGF1202TCE New Comment=0603WAF1202T5E
+Change Component Comment : Designator=R_BLOWN1B Old Comment=0402WGF1202TCE New Comment=0603WAF1202T5E
+Change Component Comment : Designator=D_Base1A Old Comment=Diode New Comment=
+Change Component Comment : Designator=D_Base1B Old Comment=Diode New Comment=
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES-0402"; UniqueID = "\ZMJPUCBX" ("\ZMJPUCBX")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1003T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_BLOWN1A" ("R_BLOWN1"); Footprint = "RES-0402"; UniqueID = "\1DRDTEQYK\GDEUGGDR" ("\1DRDTEQYK\GDEUGGDR")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1202T5E_C22790.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C22790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C22790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1202T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "12kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_BLOWN1B" ("R_BLOWN1"); Footprint = "RES-0402"; UniqueID = "\2DRDTEQYK\GDEUGGDR" ("\2DRDTEQYK\GDEUGGDR")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1202T5E_C22790.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C22790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C22790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1202T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "12kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-923_TOS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba Electronic Devices & Storage Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DF2S6.2FS,L3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OPAMP1_VINP Pin=D1-2
+Added Pin To Net: NetName=Vmotor1 Pin=R_BLOWN1A-2
+Added Pin To Net: NetName=Vmotor2 Pin=R_BLOWN1B-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U3-5
+Added Net: Name=NetD1_1
+Change Class Name : Old Net Name=Buck+LDO New Net Name=Buck + LDO
+Added Member To Class: ClassName=Power Member=Component D1 DF2S6.2FS,L3M

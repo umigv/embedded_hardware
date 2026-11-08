@@ -1,0 +1,7 @@
+Replace Part BLOWN_LED KT-0603R in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Fuse.SchDoc with KT-0603R from KT-0603R.SchLib
+Replace Part D_Base1 M7 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Fuse.SchDoc with M7 from M7.SchLib
+Update Managed Component Fuse1 From CMP-08604-000022-1[178.6165.0002] To CMP-08604-000022-1[178.6165.0002] in Fuse.SchDoc
+Replace Part J MTR1 1868076 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Fuse.SchDoc with 1868076 from 1868076.SchLib
+Replace Part Q1 SS8050(RANGE:200-350)_C2150 in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Fuse.SchDoc with SS8050(RANGE:200-350)_C2150 from SS8050_C21501_SS8050_C2150.SCHLIB
+Replace Part R_Base 0603WAF1002T5E in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Fuse.SchDoc with 0603WAF1002T5E from jlcpcb_2024_10_resistors_basic.schlib
+Replace Part R_BLOWN1 0603WAF1202T5E in D:\Umich\arv\embedded_hardware\maverick-power-distribution\PCB\Fuse.SchDoc with 0603WAF1202T5E from jlcpcb_2024_10_resistors_basic.schlib
